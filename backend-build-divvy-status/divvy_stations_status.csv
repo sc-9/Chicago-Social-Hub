@@ -1,0 +1,596 @@
+altitude,availableBikes,availableDocks,city,id,is_renting,kioskType,landMark,lastCommunicationTime,latitude,location,longitude,postalCode,stAddress1,stAddress2,stationName,status,statusKey,statusValue,testStation,totalDocks
+0.0,10,29,Chicago,2,True,True,Chicago,2020-04-19 20:14:51,41.87651122881695,Chicago,-87.62054800987242,60602,Chicago,Chicago,Buckingham Fountain,IN_SERVICE,1,IN_SERVICE,False,39
+0.0,16,39,Chicago,3,True,True,Chicago,2020-04-19 04:38:55,41.86722595682,Chicago,-87.6153553902,60602,Chicago,Chicago,Shedd Aquarium,IN_SERVICE,1,IN_SERVICE,False,55
+0.0,15,8,Chicago,4,True,True,Chicago,2020-04-19 04:59:47,41.856268,Chicago,-87.613348,60602,Chicago,Chicago,Burnham Harbor,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,17,5,Chicago,5,True,True,Chicago,2020-04-19 18:41:35,41.874053,Chicago,-87.627716,60602,Chicago,Chicago,State St & Harrison St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,23,16,Chicago,6,True,True,Chicago,2020-04-19 14:45:08,41.886976,Chicago,-87.612813,60602,Chicago,Chicago,Dusable Harbor,IN_SERVICE,1,IN_SERVICE,False,39
+0.0,8,11,Chicago,7,True,True,Chicago,2020-04-19 18:27:20,41.88634906269,Chicago,-87.6175165471,60602,Chicago,Chicago,Field Blvd & South Water St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,2,13,Chicago,9,True,True,Chicago,2020-04-19 04:54:09,41.82879201994,Chicago,-87.6806044594,60602,Chicago,Chicago,Leavitt St & Archer Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,4,Chicago,11,True,True,Chicago,2020-04-19 11:49:07,41.76663823695,Chicago,-87.5764501141,60602,Chicago,Chicago,Jeffery Blvd & 71st St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,10,5,Chicago,12,True,True,Chicago,2020-04-19 15:25:34,41.7664094567,Chicago,-87.5656875719,60602,Chicago,Chicago,South Shore Dr & 71st St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,9,26,Chicago,13,True,True,Chicago,2020-04-19 22:11:29,41.932418,Chicago,-87.652705,60602,Chicago,Chicago,Wilton Ave & Diversey Pkwy,IN_SERVICE,1,IN_SERVICE,False,35
+0.0,5,10,Chicago,14,True,True,Chicago,2020-04-19 22:18:06,41.858086,Chicago,-87.651073,60602,Chicago,Chicago,Morgan St & 18th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,9,Chicago,15,True,True,Chicago,2020-04-19 19:31:16,41.858166,Chicago,-87.656495,60602,Chicago,Chicago,Racine Ave & 18th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,10,4,Chicago,16,True,True,Chicago,2020-04-19 19:28:01,41.910337,Chicago,-87.670072,60602,Chicago,Chicago,Paulina Ave & North Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,17,6,Chicago,17,True,True,Chicago,2020-04-19 19:29:08,41.903119,Chicago,-87.673935,60602,Chicago,Chicago,Honore St & Division St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,14,5,Chicago,18,True,True,Chicago,2020-04-19 17:32:38,41.883132,Chicago,-87.637321,60602,Chicago,Chicago,Wacker Dr & Washington St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,7,8,Chicago,19,True,True,Chicago,2020-04-19 18:49:41,41.868968,Chicago,-87.659141,60602,Chicago,Chicago,Throop (Loomis) St & Taylor St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,2,13,Chicago,20,True,True,Chicago,2020-04-19 18:00:58,41.910522,Chicago,-87.653106,60602,Chicago,Chicago,Sheffield Ave & Kingsbury St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,19,4,Chicago,21,True,True,Chicago,2020-04-19 21:02:36,41.87772613,Chicago,-87.65478743,60602,Chicago,Chicago,Aberdeen St & Jackson Blvd,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,6,9,Chicago,22,True,True,Chicago,2020-04-19 22:15:41,41.8694821,Chicago,-87.6554864,60602,Chicago,Chicago,May St & Taylor St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,11,4,Chicago,23,True,True,Chicago,2020-04-19 15:56:22,41.902924,Chicago,-87.637715,60602,Chicago,Chicago,Orleans St & Elm St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,9,6,Chicago,24,True,True,Chicago,2020-04-19 21:41:16,41.89184737210993,Chicago,-87.62058019638062,60602,Chicago,Chicago,Fairbanks Ct & Grand Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,16,7,Chicago,25,True,True,Chicago,2020-04-19 20:03:03,41.89766,Chicago,-87.62351,60602,Chicago,Chicago,Michigan Ave & Pearson St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,17,14,Chicago,26,True,True,Chicago,2020-04-19 22:11:55,41.890359,Chicago,-87.617532,60602,Chicago,Chicago,McClurg Ct & Illinois St,IN_SERVICE,1,IN_SERVICE,False,31
+0.0,5,14,Chicago,27,True,True,Chicago,2020-04-19 19:47:49,41.91021,Chicago,-87.6435,60602,Chicago,Chicago,Larrabee St & North Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,4,11,Chicago,28,True,True,Chicago,2020-04-19 21:44:39,41.91468,Chicago,-87.64332,60602,Chicago,Chicago,Larrabee St & Menomonee St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,8,Chicago,29,True,True,Chicago,2020-04-19 18:26:55,41.90068,Chicago,-87.6626,60602,Chicago,Chicago,Noble St & Milwaukee Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,8,7,Chicago,30,True,True,Chicago,2020-04-19 19:40:09,41.899643,Chicago,-87.6677,60602,Chicago,Chicago,Ashland Ave & Augusta Blvd,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,15,8,Chicago,31,True,True,Chicago,2020-04-19 18:23:04,41.896746973093805,Chicago,-87.63566762208939,60602,Chicago,Chicago,Franklin St & Chicago Ave,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,7,12,Chicago,32,True,True,Chicago,2020-04-19 23:08:29,41.87464,Chicago,-87.65703,60602,Chicago,Chicago,Racine Ave & Congress Pkwy,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,12,15,Chicago,33,True,True,Chicago,2020-04-19 20:51:52,41.877181,Chicago,-87.627844,60602,Chicago,Chicago,State St & Van Buren St,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,4,11,Chicago,34,True,True,Chicago,2020-04-19 18:05:17,41.9267559875,Chicago,-87.6344287848,60602,Chicago,Chicago,Cannon Dr & Fullerton Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,9,38,Chicago,35,True,True,Chicago,2020-04-19 20:16:43,41.892278,Chicago,-87.612043,60602,Chicago,Chicago,Streeter Dr & Grand Ave,IN_SERVICE,1,IN_SERVICE,False,47
+0.0,19,20,Chicago,36,True,True,Chicago,2020-04-19 20:14:34,41.8777079559,Chicago,-87.6353211408,60602,Chicago,Chicago,Franklin St & Jackson Blvd,IN_SERVICE,1,IN_SERVICE,False,39
+0.0,11,8,Chicago,37,True,True,Chicago,2020-04-19 16:50:03,41.8793563587,Chicago,-87.6297910363,60602,Chicago,Chicago,Dearborn St & Adams St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,14,13,Chicago,38,True,True,Chicago,2020-04-19 21:25:39,41.88602082773,Chicago,-87.6308760584,60602,Chicago,Chicago,Clark St & Lake St,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,21,2,Chicago,39,True,True,Chicago,2020-04-19 19:35:52,41.87947235235,Chicago,-87.6256886059,60602,Chicago,Chicago,Wabash Ave & Adams St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,8,7,Chicago,40,True,True,Chicago,2020-04-19 15:13:33,41.87934437346,Chicago,-87.6319852213,60602,Chicago,Chicago,LaSalle St & Adams St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,8,11,Chicago,41,True,True,Chicago,2020-04-19 20:30:44,41.87207763285,Chicago,-87.6295437729,60602,Chicago,Chicago,Federal St & Polk St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,2,9,Chicago,42,True,True,Chicago,2020-04-19 19:31:31,41.852619,Chicago,-87.626488,60602,Chicago,Chicago,Wabash Ave & Cermak Rd,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,34,9,Chicago,43,True,True,Chicago,2020-04-19 16:00:15,41.8839840647265,Chicago,-87.6246839761734,60602,Chicago,Chicago,Michigan Ave & Washington St,IN_SERVICE,1,IN_SERVICE,False,43
+0.0,16,11,Chicago,44,True,True,Chicago,2020-04-19 22:34:22,41.8847302006,Chicago,-87.6277335692,60602,Chicago,Chicago,State St & Randolph St,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,5,10,Chicago,45,True,True,Chicago,2020-04-19 16:01:30,41.876243,Chicago,-87.624426,60602,Chicago,Chicago,Michigan Ave & Ida B Wells Dr,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,8,11,Chicago,46,True,True,Chicago,2020-04-19 17:21:59,41.89993001,Chicago,-87.63443007,60602,Chicago,Chicago,Wells St & Walton St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,23,8,Chicago,47,True,True,Chicago,2020-04-19 20:12:59,41.889187,Chicago,-87.627754,60602,Chicago,Chicago,State St & Kinzie St,IN_SERVICE,1,IN_SERVICE,False,31
+0.0,8,35,Chicago,48,True,True,Chicago,2020-04-19 18:24:12,41.897764,Chicago,-87.642884,60602,Chicago,Chicago,Larrabee St & Kingsbury St,IN_SERVICE,1,IN_SERVICE,False,43
+0.0,20,19,Chicago,49,True,True,Chicago,2020-04-19 21:56:04,41.881319815,Chicago,-87.6295209193,60602,Chicago,Chicago,Dearborn St & Monroe St,IN_SERVICE,1,IN_SERVICE,False,39
+0.0,26,9,Chicago,50,True,True,Chicago,2020-04-19 19:31:33,41.8759326655,Chicago,-87.6305845355,60602,Chicago,Chicago,Clark St & Ida B Wells Dr,IN_SERVICE,1,IN_SERVICE,False,35
+0.0,19,20,Chicago,51,True,True,Chicago,2020-04-19 22:58:51,41.884576228,Chicago,-87.63188991,60602,Chicago,Chicago,Clark St & Randolph St,IN_SERVICE,1,IN_SERVICE,False,39
+0.0,18,17,Chicago,52,True,True,Chicago,2020-04-19 21:14:26,41.886024,Chicago,-87.624117,60602,Chicago,Chicago,Michigan Ave & Lake St,IN_SERVICE,1,IN_SERVICE,False,35
+0.0,10,17,Chicago,53,True,True,Chicago,2020-04-19 22:28:41,41.894722,Chicago,-87.634362,60602,Chicago,Chicago,Wells St & Huron St,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,15,4,Chicago,54,True,True,Chicago,2020-04-19 21:39:19,41.896362458,Chicago,-87.6540612729,60602,Chicago,Chicago,Ogden Ave & Chicago Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,12,11,Chicago,55,True,True,Chicago,2020-04-19 19:24:45,41.867324,Chicago,-87.648625,60602,Chicago,Chicago,Halsted St & Roosevelt Rd,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,5,22,Chicago,56,True,True,Chicago,2020-04-19 21:51:11,41.888716036,Chicago,-87.6444478533,60602,Chicago,Chicago,Desplaines St & Kinzie St,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,11,4,Chicago,57,True,True,Chicago,2020-04-19 21:18:14,41.8671177825,Chicago,-87.6410879593,60602,Chicago,Chicago,Clinton St & Roosevelt Rd,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,10,11,Chicago,58,True,True,Chicago,2020-04-19 18:45:36,41.916017,Chicago,-87.668879,60602,Chicago,Chicago,Marshfield Ave & Cortland St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,18,5,Chicago,59,True,True,Chicago,2020-04-19 22:42:25,41.867227,Chicago,-87.625961,60602,Chicago,Chicago,Wabash Ave & Roosevelt Rd,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,6,13,Chicago,60,True,True,Chicago,2020-04-19 18:46:42,41.9105780349,Chicago,-87.6494219288,60602,Chicago,Chicago,Dayton St & North Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,11,8,Chicago,61,True,True,Chicago,2020-04-19 18:02:42,41.907655,Chicago,-87.672552,60602,Chicago,Chicago,Wood St & Milwaukee Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,15,12,Chicago,62,True,True,Chicago,2020-04-19 17:27:03,41.8513751729,Chicago,-87.6188346489,60602,Chicago,Chicago,McCormick Place,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,19,4,Chicago,66,True,True,Chicago,2020-04-19 21:16:54,41.885637,Chicago,-87.641823,60602,Chicago,Chicago,Clinton St & Lake St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,7,20,Chicago,67,True,True,Chicago,2020-04-19 23:05:05,41.9256018819,Chicago,-87.6537080423,60602,Chicago,Chicago,Sheffield Ave & Fullerton Ave,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,5,18,Chicago,68,True,True,Chicago,2020-04-19 13:24:46,41.875885,Chicago,-87.640795,60602,Chicago,Chicago,Clinton St & Tilden St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,17,6,Chicago,69,True,True,Chicago,2020-04-19 22:17:04,41.9093960065,Chicago,-87.6776919292,60602,Chicago,Chicago,Damen Ave & Pierce Ave,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,6,17,Chicago,71,True,True,Chicago,2020-04-19 21:29:26,41.8854833079,Chicago,-87.6523048564,60602,Chicago,Chicago,Morgan St & Lake St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,13,26,Chicago,72,True,True,Chicago,2020-04-19 18:34:28,41.860384,Chicago,-87.625813,60602,Chicago,Chicago,Wabash Ave & 16th St,IN_SERVICE,1,IN_SERVICE,False,39
+0.0,9,10,Chicago,73,True,True,Chicago,2020-04-19 20:34:15,41.880422,Chicago,-87.642746,60602,Chicago,Chicago,Jefferson St & Monroe St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,8,15,Chicago,74,True,True,Chicago,2020-04-19 22:52:27,41.89380805624359,Chicago,-87.64169722795485,60602,Chicago,Chicago,Kingsbury St & Erie St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,25,22,Chicago,75,True,True,Chicago,2020-04-19 13:03:34,41.877245,Chicago,-87.639366,60602,Chicago,Chicago,Canal St & Jackson Blvd,IN_SERVICE,1,IN_SERVICE,False,47
+0.0,19,20,Chicago,76,True,True,Chicago,2020-04-19 17:03:17,41.880958,Chicago,-87.616743,60602,Chicago,Chicago,Lake Shore Dr & Monroe St,IN_SERVICE,1,IN_SERVICE,False,39
+0.0,18,13,Chicago,77,True,True,Chicago,2020-04-19 19:42:27,41.882242,Chicago,-87.641066,60602,Chicago,Chicago,Clinton St & Madison St,IN_SERVICE,1,IN_SERVICE,False,31
+0.0,6,12,Chicago,80,True,True,Chicago,2020-04-19 20:18:14,41.880419,Chicago,-87.655519,60602,Chicago,Chicago,Aberdeen St & Monroe St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,20,19,Chicago,81,True,True,Chicago,2020-04-19 17:34:28,41.884241,Chicago,-87.629634,60602,Chicago,Chicago,Daley Center Plaza,IN_SERVICE,1,IN_SERVICE,False,39
+0.0,8,10,Chicago,84,True,True,Chicago,2020-04-19 20:04:54,41.891578,Chicago,-87.648384,60602,Chicago,Chicago,Milwaukee Ave & Grand Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,7,16,Chicago,85,True,True,Chicago,2020-04-19 22:04:46,41.90096039,Chicago,-87.62377664,60602,Chicago,Chicago,Michigan Ave & Oak St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,9,10,Chicago,86,True,True,Chicago,2020-04-19 19:30:53,41.89637337,Chicago,-87.66098386,60602,Chicago,Chicago,Eckhart Park,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,3,16,Chicago,87,True,True,Chicago,2020-04-19 18:56:35,41.92556258,Chicago,-87.65840426,60602,Chicago,Chicago,Racine Ave & Fullerton Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,12,7,Chicago,88,True,True,Chicago,2020-04-19 16:31:06,41.884069,Chicago,-87.656853,60602,Chicago,Chicago,Racine Ave & Randolph St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,19,12,Chicago,89,True,True,Chicago,2020-04-19 20:40:33,41.8750236280333,Chicago,-87.6330940425396,60602,Chicago,Chicago,Financial Pl & Ida B Wells Dr,IN_SERVICE,1,IN_SERVICE,False,31
+0.0,19,28,Chicago,90,True,True,Chicago,2020-04-19 17:26:51,41.8810317,Chicago,-87.62408432,60602,Chicago,Chicago,Millennium Park,IN_SERVICE,1,IN_SERVICE,False,47
+0.0,18,13,Chicago,91,True,True,Chicago,2020-04-19 14:35:01,41.88338,Chicago,-87.64117,60602,Chicago,Chicago,Clinton St & Washington Blvd,IN_SERVICE,1,IN_SERVICE,False,31
+0.0,11,8,Chicago,92,True,True,Chicago,2020-04-19 18:23:26,41.894556,Chicago,-87.653449,60602,Chicago,Chicago,Carpenter St & Huron St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,7,8,Chicago,93,True,True,Chicago,2020-04-19 21:26:21,41.913688,Chicago,-87.652855,60602,Chicago,Chicago,Sheffield Ave & Willow St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,22,9,Chicago,94,True,True,Chicago,2020-04-19 22:49:45,41.918306,Chicago,-87.636282,60602,Chicago,Chicago,Clark St & Armitage Ave,IN_SERVICE,1,IN_SERVICE,False,31
+0.0,2,9,Chicago,95,True,True,Chicago,2020-04-19 04:48:59,41.778881,Chicago,-87.586647,60602,Chicago,Chicago,Stony Island Ave & 64th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,18,Chicago,96,True,True,Chicago,2020-04-19 18:50:50,41.88461618962,Chicago,-87.6445705849,60602,Chicago,Chicago,Desplaines St & Randolph St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,28,26,Chicago,97,True,True,Chicago,2020-04-19 15:01:38,41.865312,Chicago,-87.617867,60602,Chicago,Chicago,Field Museum,IN_SERVICE,1,IN_SERVICE,False,55
+0.0,9,6,Chicago,98,True,True,Chicago,2020-04-19 17:22:07,41.882664,Chicago,-87.63253,60602,Chicago,Chicago,LaSalle St & Washington St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,13,Chicago,99,True,True,Chicago,2020-04-19 19:59:36,41.89257,Chicago,-87.614492,60602,Chicago,Chicago,Lake Shore Dr & Ohio St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,20,15,Chicago,100,True,True,Chicago,2020-04-19 19:11:36,41.888243,Chicago,-87.63639,60602,Chicago,Chicago,Orleans St & Merchandise Mart Plaza,IN_SERVICE,1,IN_SERVICE,False,35
+0.0,2,13,Chicago,101,True,True,Chicago,2020-04-19 15:31:37,41.78101637196,Chicago,-87.5761197602,60602,Chicago,Chicago,63rd St Beach,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,4,7,Chicago,102,True,True,Chicago,2020-04-19 07:25:37,41.77345849948,Chicago,-87.5853397391,60602,Chicago,Chicago,Stony Island Ave & 67th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,12,3,Chicago,103,True,True,Chicago,2020-04-19 18:28:16,41.87146651779,Chicago,-87.6409491327,60602,Chicago,Chicago,Clinton St & Polk St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,10,16,Chicago,106,True,True,Chicago,2020-04-19 20:55:17,41.897448,Chicago,-87.628722,60602,Chicago,Chicago,State St & Pearson St,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,19,8,Chicago,107,True,True,Chicago,2020-04-19 19:51:32,41.878287,Chicago,-87.643909,60602,Chicago,Chicago,Desplaines St & Jackson Blvd,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,9,10,Chicago,108,True,True,Chicago,2020-04-19 21:49:47,41.87184,Chicago,-87.64664,60602,Chicago,Chicago,Halsted St & Polk St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,8,11,Chicago,109,True,True,Chicago,2020-04-19 23:13:11,41.874754,Chicago,-87.649807,60602,Chicago,Chicago,900 W Harrison St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,17,10,Chicago,110,True,True,Chicago,2020-04-19 22:53:30,41.893992,Chicago,-87.629318,60602,Chicago,Chicago,Dearborn St & Erie St,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,12,15,Chicago,111,True,True,Chicago,2020-04-19 20:26:10,41.894666,Chicago,-87.638437,60602,Chicago,Chicago,Sedgwick St & Huron St,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,8,6,Chicago,112,True,True,Chicago,2020-04-19 18:05:46,41.883668,Chicago,-87.64867,60602,Chicago,Chicago,Green St & Randolph St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,8,7,Chicago,113,True,True,Chicago,2020-04-19 21:02:33,41.91844,Chicago,-87.65222,60602,Chicago,Chicago,Bissell St & Armitage Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,15,12,Chicago,114,True,True,Chicago,2020-04-19 21:51:32,41.949399,Chicago,-87.654529,60602,Chicago,Chicago,Sheffield Ave & Waveland Ave,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,13,9,Chicago,115,True,True,Chicago,2020-04-19 21:47:47,41.936266,Chicago,-87.652662,60602,Chicago,Chicago,Sheffield Ave & Wellington Ave,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,6,9,Chicago,116,True,True,Chicago,2020-04-19 20:00:47,41.91552,Chicago,-87.687022,60602,Chicago,Chicago,Western Ave & Winnebago Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,13,14,Chicago,117,True,True,Chicago,2020-04-19 20:05:42,41.94018,Chicago,-87.65304,60602,Chicago,Chicago,Wilton Ave & Belmont Ave,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,5,14,Chicago,118,True,True,Chicago,2020-04-19 19:01:40,41.911386,Chicago,-87.638677,60602,Chicago,Chicago,Sedgwick St & North Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,11,8,Chicago,119,True,True,Chicago,2020-04-19 17:05:54,41.88592,Chicago,-87.66717,60602,Chicago,Chicago,Ashland Ave & Lake St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,16,3,Chicago,120,True,True,Chicago,2020-04-19 16:10:12,41.853005,Chicago,-87.630578,60602,Chicago,Chicago,Wentworth Ave & Cermak Rd (Temp),IN_SERVICE,1,IN_SERVICE,False,19
+0.0,5,13,Chicago,121,True,True,Chicago,2020-04-19 19:45:13,41.802562,Chicago,-87.590368,60602,Chicago,Chicago,Blackstone Ave & Hyde Park Blvd,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,5,10,Chicago,122,True,True,Chicago,2020-04-19 18:31:58,41.87501,Chicago,-87.67328,60602,Chicago,Chicago,Ogden Ave & Congress Pkwy,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,9,6,Chicago,123,True,True,Chicago,2020-04-19 21:54:15,41.922695,Chicago,-87.697153,60602,Chicago,Chicago,California Ave & Milwaukee Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,12,3,Chicago,124,True,True,Chicago,2020-04-19 22:01:44,41.855048,Chicago,-87.675726,60602,Chicago,Chicago,Damen Ave & Cullerton St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,20,3,Chicago,125,True,True,Chicago,2020-04-19 18:37:22,41.890173,Chicago,-87.626185,60602,Chicago,Chicago,Rush St & Hubbard St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,9,6,Chicago,126,True,True,Chicago,2020-04-19 19:44:16,41.911974,Chicago,-87.631942,60602,Chicago,Chicago,Clark St & North Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,8,Chicago,127,True,True,Chicago,2020-04-19 20:19:26,41.925905,Chicago,-87.64926,60602,Chicago,Chicago,Lincoln Ave & Fullerton Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,12,7,Chicago,128,True,True,Chicago,2020-04-19 23:34:37,41.895769,Chicago,-87.67722,60602,Chicago,Chicago,Damen Ave & Chicago Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,11,4,Chicago,129,True,True,Chicago,2020-04-19 19:54:18,41.857556,Chicago,-87.661535,60602,Chicago,Chicago,Blue Island Ave & 18th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,8,11,Chicago,130,True,True,Chicago,2020-04-19 17:45:52,41.903266,Chicago,-87.678435,60602,Chicago,Chicago,Damen Ave & Division St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,11,4,Chicago,131,True,True,Chicago,2020-04-19 18:28:47,41.939365,Chicago,-87.668385,60602,Chicago,Chicago,Lincoln Ave & Belmont Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,8,Chicago,132,True,True,Chicago,2020-04-19 18:11:46,41.85008369347577,Chicago,-87.6321405172348,60602,Chicago,Chicago,Wentworth Ave & 24th St (Temp),IN_SERVICE,1,IN_SERVICE,False,15
+0.0,23,8,Chicago,133,True,True,Chicago,2020-04-19 19:27:55,41.88917683258,Chicago,-87.6385057718,60602,Chicago,Chicago,Kingsbury St & Kinzie St,IN_SERVICE,1,IN_SERVICE,False,31
+0.0,15,4,Chicago,134,True,True,Chicago,2020-04-19 19:28:49,41.8776415962753,Chicago,-87.64961779117584,60602,Chicago,Chicago,Peoria St & Jackson Blvd,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,3,8,Chicago,135,True,True,Chicago,2020-04-19 15:56:21,41.85378,Chicago,-87.64665,60602,Chicago,Chicago,Halsted St & 21st St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,13,Chicago,136,True,True,Chicago,2020-04-19 18:33:37,41.865054,Chicago,-87.656959,60602,Chicago,Chicago,Racine Ave & 13th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,9,6,Chicago,137,True,True,Chicago,2020-04-19 15:18:17,41.862378,Chicago,-87.651062,60602,Chicago,Chicago,Morgan Ave & 14th Pl,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,9,Chicago,138,True,True,Chicago,2020-04-19 21:20:03,41.904613,Chicago,-87.640552,60602,Chicago,Chicago,Clybourn Ave & Division St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,14,5,Chicago,140,True,True,Chicago,2020-04-19 19:42:47,41.898969,Chicago,-87.629912,60602,Chicago,Chicago,Dearborn Pkwy & Delaware Pl,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,12,11,Chicago,141,True,True,Chicago,2020-04-19 22:19:00,41.915689,Chicago,-87.6346,60602,Chicago,Chicago,Clark St & Lincoln Ave,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,12,19,Chicago,142,True,True,Chicago,2020-04-19 20:23:58,41.894503,Chicago,-87.617854,60602,Chicago,Chicago,McClurg Ct & Erie St,IN_SERVICE,1,IN_SERVICE,False,31
+0.0,8,7,Chicago,143,True,True,Chicago,2020-04-19 19:20:57,41.922167,Chicago,-87.638888,60602,Chicago,Chicago,Sedgwick St & Webster Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,11,8,Chicago,144,True,True,Chicago,2020-04-19 19:49:09,41.921822,Chicago,-87.64414,60602,Chicago,Chicago,Larrabee St & Webster Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,7,12,Chicago,145,True,True,Chicago,2020-04-19 20:28:15,41.8985866514,Chicago,-87.6219152258,60602,Chicago,Chicago,Mies van der Rohe Way & Chestnut St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,10,9,Chicago,146,True,True,Chicago,2020-04-19 17:38:15,41.877945,Chicago,-87.662007,60602,Chicago,Chicago,Loomis St & Jackson Blvd,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,6,9,Chicago,147,True,True,Chicago,2020-04-19 18:41:06,41.845687,Chicago,-87.622481,60602,Chicago,Chicago,Indiana Ave & 26th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,3,12,Chicago,148,True,True,Chicago,2020-04-19 23:17:00,41.834734,Chicago,-87.625813,60602,Chicago,Chicago,State St & 33rd St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,10,0,Chicago,149,True,True,Chicago,2020-04-19 20:29:22,41.8349,Chicago,-87.61793,60602,Chicago,Chicago,Calumet Ave & 33rd St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,24,Chicago,150,True,True,Chicago,2020-04-19 04:43:56,41.838556,Chicago,-87.608218,60602,Chicago,Chicago,Fort Dearborn Dr & 31st St,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,11,4,Chicago,152,True,True,Chicago,2020-04-19 17:16:05,41.932225,Chicago,-87.658617,60602,Chicago,Chicago,Lincoln Ave & Diversey Pkwy,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,15,4,Chicago,153,True,True,Chicago,2020-04-19 21:44:09,41.935733,Chicago,-87.663576,60602,Chicago,Chicago,Southport Ave & Wellington Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,14,1,Chicago,154,True,True,Chicago,2020-04-19 22:18:05,41.93949,Chicago,-87.66378,60602,Chicago,Chicago,Southport Ave & Belmont Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,4,11,Chicago,156,True,True,Chicago,2020-04-19 19:58:08,41.9364968219,Chicago,-87.6475386582,60602,Chicago,Chicago,Clark St & Wellington Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,5,10,Chicago,157,True,True,Chicago,2020-04-19 19:41:07,41.9366884494997,Chicago,-87.63682901859283,60602,Chicago,Chicago,Lake Shore Dr & Wellington Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,13,2,Chicago,158,True,True,Chicago,2020-04-19 21:43:31,41.912616,Chicago,-87.681391,60602,Chicago,Chicago,Milwaukee Ave & Wabansia Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,3,8,Chicago,159,True,True,Chicago,2020-04-19 19:50:39,41.907781,Chicago,-87.685854,60602,Chicago,Chicago,Claremont Ave & Hirsch St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,13,1,Chicago,160,True,True,Chicago,2020-04-19 17:08:07,41.910535,Chicago,-87.689556,60602,Chicago,Chicago,Campbell Ave & North Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,8,15,Chicago,161,True,True,Chicago,2020-04-19 21:49:19,41.89576474564,Chicago,-87.6259080327,60602,Chicago,Chicago,Rush St & Superior St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,8,7,Chicago,162,True,True,Chicago,2020-04-19 17:49:40,41.93588,Chicago,-87.67842,60602,Chicago,Chicago,Damen Ave & Wellington Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,11,4,Chicago,163,True,True,Chicago,2020-04-19 18:10:37,41.931931,Chicago,-87.677856,60602,Chicago,Chicago,Damen Ave & Clybourn Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,21,Chicago,164,True,True,Chicago,2020-04-19 19:00:25,41.885837,Chicago,-87.6355,60602,Chicago,Chicago,Franklin St & Lake St,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,2,21,Chicago,165,True,True,Chicago,2020-04-19 19:23:00,41.95078,Chicago,-87.659172,60602,Chicago,Chicago,Clark St & Grace St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,14,1,Chicago,166,True,True,Chicago,2020-04-19 17:38:20,41.92883,Chicago,-87.668507,60602,Chicago,Chicago,Ashland Ave & Wrightwood Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,5,2,Chicago,167,True,True,Chicago,2020-04-19 18:59:20,41.8492,Chicago,-87.67564,60602,Chicago,Chicago,Damen Ave & Coulter St,IN_SERVICE,1,IN_SERVICE,False,7
+0.0,8,11,Chicago,168,True,True,Chicago,2020-04-19 20:05:39,41.864059,Chicago,-87.623727,60602,Chicago,Chicago,Michigan Ave & 14th St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,4,11,Chicago,169,True,True,Chicago,2020-04-19 17:58:19,41.874255,Chicago,-87.639573,60602,Chicago,Chicago,Canal St & Harrison St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,9,Chicago,170,True,True,Chicago,2020-04-19 22:48:51,41.85795,Chicago,-87.640826,60602,Chicago,Chicago,Clinton St & 18th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,1,10,Chicago,171,True,True,Chicago,2020-04-19 20:04:47,41.855136,Chicago,-87.654127,60602,Chicago,Chicago,May St & Cullerton St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,8,3,Chicago,172,True,True,Chicago,2020-04-19 19:22:11,41.90230870122,Chicago,-87.627690528,60602,Chicago,Chicago,Rush St & Cedar St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,13,Chicago,173,True,True,Chicago,2020-04-19 21:39:32,41.89691,Chicago,-87.621743,60602,Chicago,Chicago,Mies van der Rohe Way & Chicago Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,8,27,Chicago,174,True,True,Chicago,2020-04-19 15:28:00,41.882091,Chicago,-87.639833,60602,Chicago,Chicago,Canal St & Madison St,IN_SERVICE,1,IN_SERVICE,False,35
+0.0,10,9,Chicago,175,True,True,Chicago,2020-04-19 21:56:58,41.872596,Chicago,-87.633502,60602,Chicago,Chicago,Wells St & Polk St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,18,20,Chicago,176,True,True,Chicago,2020-04-19 23:06:43,41.902973,Chicago,-87.63128,60602,Chicago,Chicago,Clark St & Elm St,IN_SERVICE,1,IN_SERVICE,False,39
+0.0,9,22,Chicago,177,True,True,Chicago,2020-04-19 15:24:26,41.926277,Chicago,-87.630834,60602,Chicago,Chicago,Theater on the Lake,IN_SERVICE,1,IN_SERVICE,False,31
+0.0,8,7,Chicago,178,True,True,Chicago,2020-04-19 16:26:37,41.856594,Chicago,-87.627542,60602,Chicago,Chicago,State St & 19th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,3,12,Chicago,179,True,True,Chicago,2020-04-19 18:50:19,41.8246,Chicago,-87.61678,60602,Chicago,Chicago,MLK Jr Dr & Pershing Rd,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,8,Chicago,180,True,True,Chicago,2020-04-19 20:14:08,41.906866,Chicago,-87.626217,60602,Chicago,Chicago,Ritchie Ct & Banks St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,29,2,Chicago,181,True,True,Chicago,2020-04-19 20:53:58,41.890762,Chicago,-87.631697,60602,Chicago,Chicago,LaSalle St & Illinois St,IN_SERVICE,1,IN_SERVICE,False,31
+0.0,9,14,Chicago,182,True,True,Chicago,2020-04-19 20:31:50,41.903222,Chicago,-87.634324,60602,Chicago,Chicago,Wells St & Elm St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,6,16,Chicago,183,True,True,Chicago,2020-04-19 22:04:01,41.901315,Chicago,-87.677409,60602,Chicago,Chicago,Damen Ave & Thomas St (Augusta Blvd),IN_SERVICE,1,IN_SERVICE,False,23
+0.0,14,5,Chicago,184,True,True,Chicago,2020-04-19 14:03:35,41.8309,Chicago,-87.62803,60602,Chicago,Chicago,State St & 35th St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,2,9,Chicago,185,True,True,Chicago,2020-04-19 20:29:43,41.917741,Chicago,-87.691392,60602,Chicago,Chicago,Stave St & Armitage Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,8,7,Chicago,186,True,True,Chicago,2020-04-19 22:49:44,41.891795,Chicago,-87.658751,60602,Chicago,Chicago,Ogden Ave & Race Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,13,2,Chicago,188,True,True,Chicago,2020-04-19 22:27:54,41.92533,Chicago,-87.6658,60602,Chicago,Chicago,Greenview Ave & Fullerton Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,10,5,Chicago,190,True,True,Chicago,2020-04-19 18:35:22,41.928773,Chicago,-87.663913,60602,Chicago,Chicago,Southport Ave & Wrightwood Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,2,25,Chicago,191,True,True,Chicago,2020-04-19 14:53:03,41.88169,Chicago,-87.63953,60602,Chicago,Chicago,Canal St & Monroe St,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,15,32,Chicago,192,True,True,Chicago,2020-04-19 14:43:41,41.879255,Chicago,-87.639904,60602,Chicago,Chicago,Canal St & Adams St,IN_SERVICE,1,IN_SERVICE,False,47
+0.0,4,7,Chicago,193,True,True,Chicago,2020-04-19 18:32:38,41.841707,Chicago,-87.626938,60602,Chicago,Chicago,State St & 29th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,15,Chicago,194,True,True,Chicago,2020-04-19 20:50:53,41.886875,Chicago,-87.62603,60602,Chicago,Chicago,Wabash Ave & Wacker Pl,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,10,45,Chicago,195,True,True,Chicago,2020-04-19 18:26:47,41.884728,Chicago,-87.619521,60602,Chicago,Chicago,Columbus Dr & Randolph St,IN_SERVICE,1,IN_SERVICE,False,55
+0.0,3,28,Chicago,196,True,True,Chicago,2020-04-19 22:23:15,41.890573,Chicago,-87.622072,60602,Chicago,Chicago,Cityfront Plaza Dr & Pioneer Ct,IN_SERVICE,1,IN_SERVICE,False,31
+0.0,1,18,Chicago,197,True,True,Chicago,2020-04-19 20:00:15,41.882134,Chicago,-87.625125,60602,Chicago,Chicago,Michigan Ave & Madison St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,23,4,Chicago,198,True,True,Chicago,2020-04-19 21:25:47,41.881892,Chicago,-87.648789,60602,Chicago,Chicago,Green St & Madison St,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,8,22,Chicago,199,True,True,Chicago,2020-04-19 21:16:22,41.891466,Chicago,-87.626761,60602,Chicago,Chicago,Wabash Ave & Grand Ave,IN_SERVICE,1,IN_SERVICE,False,31
+0.0,7,4,Chicago,200,True,True,Chicago,2020-04-19 10:50:16,41.809851,Chicago,-87.616279,60602,Chicago,Chicago,MLK Jr Dr & 47th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,9,Chicago,201,True,True,Chicago,2020-04-19 15:23:45,41.82168,Chicago,-87.6216,60602,Chicago,Chicago,Indiana Ave & 40th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,8,7,Chicago,202,True,True,Chicago,2020-04-19 21:07:36,41.857499,Chicago,-87.646277,60602,Chicago,Chicago,Halsted St & 18th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,14,1,Chicago,203,True,True,Chicago,2020-04-19 17:42:10,41.854109,Chicago,-87.685838,60602,Chicago,Chicago,Western Ave & 21st St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,4,7,Chicago,204,True,True,Chicago,2020-04-19 20:49:34,41.794853,Chicago,-87.618691,60602,Chicago,Chicago,Prairie Ave & Garfield Blvd,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,11,4,Chicago,205,True,True,Chicago,2020-04-19 23:18:05,41.857901,Chicago,-87.668745,60602,Chicago,Chicago,Paulina St & 18th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,11,4,Chicago,206,True,True,Chicago,2020-04-19 16:56:34,41.847203,Chicago,-87.646795,60602,Chicago,Chicago,Halsted St & Archer Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,4,11,Chicago,207,True,True,Chicago,2020-04-19 20:04:47,41.84358,Chicago,-87.645368,60602,Chicago,Chicago,Emerald Ave & 28th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,14,1,Chicago,208,True,True,Chicago,2020-04-19 22:05:09,41.85491457576575,Chicago,-87.66355991363525,60602,Chicago,Chicago,Laflin St & Cullerton St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,10,1,Chicago,209,True,True,Chicago,2020-04-19 16:43:52,41.849527,Chicago,-87.640591,60602,Chicago,Chicago,Normal Ave & Archer Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,16,11,Chicago,210,True,True,Chicago,2020-04-19 20:36:09,41.90345,Chicago,-87.667747,60602,Chicago,Chicago,Ashland Ave & Division St,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,0,19,Chicago,211,True,True,Chicago,2020-04-19 15:46:34,41.894448,Chicago,-87.622663,60602,Chicago,Chicago,St. Clair St & Erie St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,11,20,Chicago,212,True,True,Chicago,2020-04-19 23:14:33,41.889906,Chicago,-87.634266,60602,Chicago,Chicago,Wells St & Hubbard St,IN_SERVICE,1,IN_SERVICE,False,31
+0.0,13,2,Chicago,213,True,True,Chicago,2020-04-19 17:09:42,41.910153,Chicago,-87.68229,60602,Chicago,Chicago,Leavitt St & North Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,14,9,Chicago,214,True,True,Chicago,2020-04-19 17:08:46,41.89122,Chicago,-87.67686,60602,Chicago,Chicago,Damen Ave & Grand Ave,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,3,12,Chicago,215,True,True,Chicago,2020-04-19 20:11:38,41.88137,Chicago,-87.67493,60602,Chicago,Chicago,Damen Ave & Madison St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,11,4,Chicago,216,True,True,Chicago,2020-04-19 20:27:19,41.903029,Chicago,-87.697474,60602,Chicago,Chicago,California Ave & Division St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,11,4,Chicago,217,True,True,Chicago,2020-04-19 21:58:28,41.886616486027656,Chicago,-87.6580399274826,60602,Chicago,Chicago,Elizabeth (May) St & Fulton St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,4,Chicago,218,True,True,Chicago,2020-04-19 04:43:56,41.856802,Chicago,-87.633879,60602,Chicago,Chicago,Wells St & 19th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,10,9,Chicago,219,True,True,Chicago,2020-04-19 20:27:41,41.915983,Chicago,-87.677335,60602,Chicago,Chicago,Damen Ave & Cortland St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,19,4,Chicago,220,True,True,Chicago,2020-04-19 21:15:26,41.931248,Chicago,-87.644336,60602,Chicago,Chicago,Clark St & Drummond Pl,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,15,4,Chicago,222,True,True,Chicago,2020-04-19 18:33:11,41.920195,Chicago,-87.693033,60602,Chicago,Chicago,Milwaukee Ave & Rockwell St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,5,10,Chicago,223,True,True,Chicago,2020-04-19 20:49:32,41.918216,Chicago,-87.656936,60602,Chicago,Chicago,Clifton Ave & Armitage Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,18,1,Chicago,224,True,True,Chicago,2020-04-19 18:23:52,41.913865,Chicago,-87.648755,60602,Chicago,Chicago,Halsted St & Willow St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,18,5,Chicago,225,True,True,Chicago,2020-04-19 19:23:37,41.919936,Chicago,-87.64883,60602,Chicago,Chicago,Halsted St & Dickens Ave,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,14,1,Chicago,226,True,True,Chicago,2020-04-19 19:01:03,41.939743,Chicago,-87.658865,60602,Chicago,Chicago,Racine Ave & Belmont Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,18,5,Chicago,227,True,True,Chicago,2020-04-19 22:37:09,41.94815,Chicago,-87.66394,60602,Chicago,Chicago,Southport Ave & Waveland Ave,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,10,5,Chicago,228,True,True,Chicago,2020-04-19 19:19:56,41.9406,Chicago,-87.6785,60602,Chicago,Chicago,Damen Ave & Melrose Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,14,5,Chicago,229,True,True,Chicago,2020-04-19 23:22:40,41.943739,Chicago,-87.66402,60602,Chicago,Chicago,Southport Ave & Roscoe St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,13,6,Chicago,230,True,True,Chicago,2020-04-19 20:11:58,41.94334,Chicago,-87.67097,60602,Chicago,Chicago,Lincoln Ave & Roscoe St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,19,4,Chicago,231,True,True,Chicago,2020-04-19 19:37:03,41.96167,Chicago,-87.65464,60602,Chicago,Chicago,Sheridan Rd & Montrose Ave,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,7,16,Chicago,232,True,True,Chicago,2020-04-19 22:52:02,41.949275,Chicago,-87.646303,60602,Chicago,Chicago,Pine Grove Ave & Waveland Ave,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,10,5,Chicago,233,True,True,Chicago,2020-04-19 17:42:38,41.883165,Chicago,-87.6511,60602,Chicago,Chicago,Sangamon St & Washington Blvd,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,16,3,Chicago,234,True,True,Chicago,2020-04-19 22:00:37,41.961588,Chicago,-87.666036,60602,Chicago,Chicago,Clark St & Montrose Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,4,11,Chicago,236,True,True,Chicago,2020-04-19 16:26:59,41.907626,Chicago,-87.638566,60602,Chicago,Chicago,Sedgwick St & Schiller St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,13,6,Chicago,237,True,True,Chicago,2020-04-19 19:16:44,41.842052,Chicago,-87.617,60602,Chicago,Chicago,MLK Jr Dr & 29th St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,7,8,Chicago,238,True,True,Chicago,2020-04-19 18:03:20,41.961406,Chicago,-87.676169,60602,Chicago,Chicago,Wolcott (Ravenswood) Ave & Montrose Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,12,7,Chicago,239,True,True,Chicago,2020-04-19 17:43:39,41.96649453206122,Chicago,-87.68841862678528,60602,Chicago,Chicago,Western Ave & Leland Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,11,15,Chicago,240,True,True,Chicago,2020-04-19 20:31:46,41.954245,Chicago,-87.654406,60602,Chicago,Chicago,Sheridan Rd & Irving Park Rd,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,11,8,Chicago,241,True,True,Chicago,2020-04-19 23:00:02,41.871737,Chicago,-87.65103,60602,Chicago,Chicago,Morgan St & Polk St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,3,12,Chicago,242,True,True,Chicago,2020-04-19 18:33:41,41.967094,Chicago,-87.679028,60602,Chicago,Chicago,Damen Ave & Leland Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,13,2,Chicago,243,True,True,Chicago,2020-04-19 23:02:41,41.963004,Chicago,-87.684781,60602,Chicago,Chicago,Lincoln Ave & Sunnyside Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,12,Chicago,244,True,True,Chicago,2020-04-19 22:25:40,41.95469,Chicago,-87.67393,60602,Chicago,Chicago,Ravenswood Ave & Irving Park Rd,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,15,8,Chicago,245,True,True,Chicago,2020-04-19 23:03:30,41.961004,Chicago,-87.649603,60602,Chicago,Chicago,Clarendon Ave & Junior Ter,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,8,3,Chicago,246,True,True,Chicago,2020-04-19 17:25:19,41.956057,Chicago,-87.668835,60602,Chicago,Chicago,Ashland Ave & Belle Plaine Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,14,Chicago,247,True,True,Chicago,2020-04-19 19:21:51,41.795212,Chicago,-87.580715,60602,Chicago,Chicago,Shore Dr & 55th St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,13,6,Chicago,248,True,True,Chicago,2020-04-19 15:31:34,41.795264,Chicago,-87.596471,60602,Chicago,Chicago,Woodlawn Ave & 55th St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,8,23,Chicago,249,True,True,Chicago,2020-04-19 04:54:09,41.963982,Chicago,-87.638181,60602,Chicago,Chicago,Montrose Harbor,IN_SERVICE,1,IN_SERVICE,False,31
+0.0,9,10,Chicago,250,True,True,Chicago,2020-04-19 18:50:27,41.936083,Chicago,-87.669807,60602,Chicago,Chicago,Ashland Ave & Wellington Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,8,7,Chicago,251,True,True,Chicago,2020-04-19 19:00:00,41.967968,Chicago,-87.650001,60602,Chicago,Chicago,Clarendon Ave & Leland Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,10,5,Chicago,252,True,True,Chicago,2020-04-19 18:14:55,41.809835,Chicago,-87.599383,60602,Chicago,Chicago,Greenwood Ave & 47th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,14,1,Chicago,253,True,True,Chicago,2020-04-19 19:12:12,41.968812,Chicago,-87.657659,60602,Chicago,Chicago,Winthrop Ave & Lawrence Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,9,Chicago,254,True,True,Chicago,2020-04-19 18:42:32,41.954383,Chicago,-87.648043,60602,Chicago,Chicago,Pine Grove Ave & Irving Park Rd,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,29,10,Chicago,255,True,True,Chicago,2020-04-19 20:23:25,41.867888,Chicago,-87.623041,60602,Chicago,Chicago,Indiana Ave & Roosevelt Rd,IN_SERVICE,1,IN_SERVICE,False,39
+0.0,7,8,Chicago,256,True,True,Chicago,2020-04-19 21:54:46,41.952833,Chicago,-87.649993,60602,Chicago,Chicago,Broadway & Sheridan Rd,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,8,Chicago,257,True,True,Chicago,2020-04-19 22:51:50,41.948797,Chicago,-87.675278,60602,Chicago,Chicago,Lincoln Ave & Waveland Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,21,6,Chicago,258,True,True,Chicago,2020-04-19 18:28:58,41.929465,Chicago,-87.684158,60602,Chicago,Chicago,Logan Blvd & Elston Ave,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,9,6,Chicago,259,True,True,Chicago,2020-04-19 23:06:10,41.91849115368695,Chicago,-87.69742280244827,60602,Chicago,Chicago,California Ave & Francis Pl (Temp),IN_SERVICE,1,IN_SERVICE,False,15
+0.0,27,8,Chicago,260,True,True,Chicago,2020-04-19 23:08:09,41.929567,Chicago,-87.707857,60602,Chicago,Chicago,Kedzie Ave & Milwaukee Ave,IN_SERVICE,1,IN_SERVICE,False,35
+0.0,4,11,Chicago,261,True,True,Chicago,2020-04-19 20:18:04,41.871514,Chicago,-87.669886,60602,Chicago,Chicago,Hermitage Ave & Polk St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,3,7,Chicago,262,True,True,Chicago,2020-04-19 21:36:20,41.827059,Chicago,-87.64572,60602,Chicago,Chicago,Halsted St & 37th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,8,Chicago,263,True,True,Chicago,2020-04-19 18:39:50,41.836208,Chicago,-87.613533,60602,Chicago,Chicago,Rhodes Ave & 32nd St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,10,9,Chicago,264,True,True,Chicago,2020-04-19 18:34:56,41.886835,Chicago,-87.62232,60602,Chicago,Chicago,Stetson Ave & South Water St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,10,5,Chicago,265,True,True,Chicago,2020-04-19 04:43:56,41.822985,Chicago,-87.6071,60602,Chicago,Chicago,Cottage Grove Ave & Oakwood Blvd,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,9,6,Chicago,267,True,True,Chicago,2020-04-19 14:46:04,41.809443,Chicago,-87.591875,60602,Chicago,Chicago,Lake Park Ave & 47th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,10,29,Chicago,268,True,True,Chicago,2020-04-19 18:29:33,41.911722,Chicago,-87.626804,60602,Chicago,Chicago,Lake Shore Dr & North Blvd,IN_SERVICE,1,IN_SERVICE,False,39
+0.0,3,8,Chicago,270,True,True,Chicago,2020-04-19 19:24:24,41.7586696704,Chicago,-87.586882871,60602,Chicago,Chicago,Stony Island Ave & 75th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,10,1,Chicago,271,True,True,Chicago,2020-04-19 16:15:52,41.816499,Chicago,-87.606582,60602,Chicago,Chicago,Cottage Grove Ave & 43rd St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,7,Chicago,272,True,True,Chicago,2020-04-19 18:50:46,41.838842,Chicago,-87.621857,60602,Chicago,Chicago,Indiana Ave & 31st St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,12,11,Chicago,273,True,True,Chicago,2020-04-19 18:29:51,41.857813,Chicago,-87.62455,60602,Chicago,Chicago,Michigan Ave & 18th St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,8,7,Chicago,274,True,True,Chicago,2020-04-19 18:49:37,41.861267,Chicago,-87.656625,60602,Chicago,Chicago,Racine Ave & 15th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,8,Chicago,275,True,True,Chicago,2020-04-19 16:03:52,41.865234,Chicago,-87.666507,60602,Chicago,Chicago,Ashland Ave & 13th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,5,6,Chicago,276,True,True,Chicago,2020-04-19 17:39:32,41.91044,Chicago,-87.6972,60602,Chicago,Chicago,California Ave & North Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,12,3,Chicago,277,True,True,Chicago,2020-04-19 20:37:38,41.891072,Chicago,-87.666611,60602,Chicago,Chicago,Ashland Ave & Grand Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,10,5,Chicago,278,True,True,Chicago,2020-04-19 14:54:16,41.830629,Chicago,-87.64129,60602,Chicago,Chicago,Wallace St & 35th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,2,13,Chicago,279,True,True,Chicago,2020-04-19 16:01:59,41.830661,Chicago,-87.647172,60602,Chicago,Chicago,Halsted St & 35th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,4,7,Chicago,280,True,True,Chicago,2020-04-19 20:56:43,41.8378,Chicago,-87.65114,60602,Chicago,Chicago,Morgan St & 31st St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,2,Chicago,281,True,True,Chicago,2020-04-19 18:09:44,41.84847,Chicago,-87.685109,60602,Chicago,Chicago,Western Ave & 24th St,IN_SERVICE,1,IN_SERVICE,False,7
+0.0,1,14,Chicago,282,True,True,Chicago,2020-04-19 16:31:15,41.864883,Chicago,-87.647071,60602,Chicago,Chicago,Halsted St & Maxwell St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,11,24,Chicago,283,True,True,Chicago,2020-04-19 18:28:59,41.878166,Chicago,-87.631929,60602,Chicago,Chicago,LaSalle St & Jackson Blvd,IN_SERVICE,1,IN_SERVICE,False,35
+0.0,5,18,Chicago,284,True,True,Chicago,2020-04-19 16:23:28,41.87785,Chicago,-87.62408,60602,Chicago,Chicago,Michigan Ave & Jackson Blvd,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,4,15,Chicago,285,True,True,Chicago,2020-04-19 18:26:02,41.889899,Chicago,-87.671473,60602,Chicago,Chicago,Wood St & Hubbard St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,13,2,Chicago,286,True,True,Chicago,2020-04-19 11:12:07,41.87943409140013,Chicago,-87.63550400733948,60602,Chicago,Chicago,Franklin St & Adams St (Temp),IN_SERVICE,1,IN_SERVICE,False,15
+0.0,8,23,Chicago,287,True,True,Chicago,2020-04-19 13:37:17,41.880317,Chicago,-87.635185,60602,Chicago,Chicago,Franklin St & Monroe St,IN_SERVICE,1,IN_SERVICE,False,31
+0.0,12,3,Chicago,288,True,True,Chicago,2020-04-19 18:43:18,41.918084,Chicago,-87.643749,60602,Chicago,Chicago,Larrabee St & Armitage Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,8,10,Chicago,289,True,True,Chicago,2020-04-19 20:12:23,41.912133,Chicago,-87.634656,60602,Chicago,Chicago,Wells St & Concord Ln,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,3,12,Chicago,290,True,True,Chicago,2020-04-19 19:44:47,41.921525,Chicago,-87.707322,60602,Chicago,Chicago,Kedzie Ave & Palmer Ct,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,8,11,Chicago,291,True,True,Chicago,2020-04-19 22:42:17,41.906724,Chicago,-87.63483,60602,Chicago,Chicago,Wells St & Evergreen Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,5,6,Chicago,292,True,True,Chicago,2020-04-19 18:09:28,41.957081,Chicago,-87.664199,60602,Chicago,Chicago,Southport Ave & Clark St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,18,5,Chicago,293,True,True,Chicago,2020-04-19 23:13:00,41.965221,Chicago,-87.658139,60602,Chicago,Chicago,Broadway & Wilson Ave,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,12,3,Chicago,294,True,True,Chicago,2020-04-19 19:44:02,41.978353,Chicago,-87.659753,60602,Chicago,Chicago,Broadway & Berwyn Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,11,8,Chicago,295,True,True,Chicago,2020-04-19 20:01:09,41.973815,Chicago,-87.65966,60602,Chicago,Chicago,Broadway & Argyle St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,6,12,Chicago,296,True,True,Chicago,2020-04-19 21:43:43,41.940106,Chicago,-87.645451,60602,Chicago,Chicago,Broadway & Belmont Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,12,3,Chicago,297,True,True,Chicago,2020-04-19 15:47:41,41.961507,Chicago,-87.671387,60602,Chicago,Chicago,Paulina St & Montrose Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,2,13,Chicago,298,True,True,Chicago,2020-04-19 18:16:44,41.95602,Chicago,-87.680293,60602,Chicago,Chicago,Lincoln Ave & Belle Plaine Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,8,7,Chicago,299,True,True,Chicago,2020-04-19 22:32:20,41.94367,Chicago,-87.64895,60602,Chicago,Chicago,Halsted St & Roscoe St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,13,6,Chicago,300,True,True,Chicago,2020-04-19 23:38:31,41.937725,Chicago,-87.644095,60602,Chicago,Chicago,Broadway & Barry Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,14,5,Chicago,301,True,True,Chicago,2020-04-19 21:40:39,41.907993,Chicago,-87.631501,60602,Chicago,Chicago,Clark St & Schiller St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,16,15,Chicago,302,True,True,Chicago,2020-04-19 22:17:35,41.928712,Chicago,-87.653833,60602,Chicago,Chicago,Sheffield Ave & Wrightwood Ave,IN_SERVICE,1,IN_SERVICE,False,31
+0.0,11,12,Chicago,303,True,True,Chicago,2020-04-19 19:04:13,41.945529,Chicago,-87.646439,60602,Chicago,Chicago,Broadway & Cornelia Ave,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,14,1,Chicago,304,True,True,Chicago,2020-04-19 20:58:07,41.949074,Chicago,-87.648636,60602,Chicago,Chicago,Broadway & Waveland Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,3,20,Chicago,305,True,True,Chicago,2020-04-19 17:12:29,41.902893,Chicago,-87.687275,60602,Chicago,Chicago,Western Ave & Division St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,9,10,Chicago,306,True,True,Chicago,2020-04-19 22:45:39,41.958494,Chicago,-87.654966,60602,Chicago,Chicago,Sheridan Rd & Buena Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,7,8,Chicago,307,True,True,Chicago,2020-04-19 22:40:56,41.920771,Chicago,-87.663712,60602,Chicago,Chicago,Southport Ave & Clybourn Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,10,1,Chicago,308,True,True,Chicago,2020-04-19 20:02:23,41.943403,Chicago,-87.679618,60602,Chicago,Chicago,Seeley Ave & Roscoe St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,8,Chicago,309,True,True,Chicago,2020-04-19 18:58:18,41.917805,Chicago,-87.682437,60602,Chicago,Chicago,Leavitt St & Armitage Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,6,5,Chicago,310,True,True,Chicago,2020-04-19 19:07:38,41.920082,Chicago,-87.677855,60602,Chicago,Chicago,Damen Ave & Charleston St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,16,Chicago,311,True,True,Chicago,2020-04-19 18:29:40,41.968885,Chicago,-87.684001,60602,Chicago,Chicago,Leavitt St & Lawrence Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,6,9,Chicago,312,True,True,Chicago,2020-04-19 21:36:15,41.957879,Chicago,-87.649519,60602,Chicago,Chicago,Clarendon Ave & Gordon Ter,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,9,10,Chicago,313,True,True,Chicago,2020-04-19 23:08:37,41.925858,Chicago,-87.638973,60602,Chicago,Chicago,Lakeview Ave & Fullerton Pkwy,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,7,8,Chicago,314,True,True,Chicago,2020-04-19 17:42:46,41.957921,Chicago,-87.673567,60602,Chicago,Chicago,Ravenswood Ave & Berteau Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,13,10,Chicago,315,True,True,Chicago,2020-04-19 17:56:36,41.912919,Chicago,-87.664169,60602,Chicago,Chicago,Elston Ave & Wabansia Ave,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,9,10,Chicago,316,True,True,Chicago,2020-04-19 17:51:59,41.96325,Chicago,-87.679258,60602,Chicago,Chicago,Damen Ave & Sunnyside Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,2,21,Chicago,317,True,True,Chicago,2020-04-19 23:31:27,41.869154,Chicago,-87.671045,60602,Chicago,Chicago,Wood St & Taylor St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,8,7,Chicago,318,True,True,Chicago,2020-04-19 18:26:01,41.954177,Chicago,-87.664358,60602,Chicago,Chicago,Southport Ave & Irving Park Rd,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,14,1,Chicago,319,True,True,Chicago,2020-04-19 18:25:07,41.93258963429789,Chicago,-87.66593635082245,60602,Chicago,Chicago,Greenview Ave & Diversey Pkwy,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,10,9,Chicago,320,True,True,Chicago,2020-04-19 23:04:14,41.872187,Chicago,-87.661501,60602,Chicago,Chicago,Loomis St & Lexington St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,11,8,Chicago,321,True,True,Chicago,2020-04-19 20:31:36,41.870769,Chicago,-87.625734,60602,Chicago,Chicago,Wabash Ave & 9th St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,14,5,Chicago,322,True,True,Chicago,2020-04-19 18:40:22,41.799568,Chicago,-87.594747,60602,Chicago,Chicago,Kimbark Ave & 53rd St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,15,4,Chicago,323,True,True,Chicago,2020-04-19 22:28:39,41.969517,Chicago,-87.654691,60602,Chicago,Chicago,Sheridan Rd & Lawrence Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,6,9,Chicago,324,True,True,Chicago,2020-04-19 22:15:28,41.93132,Chicago,-87.638742,60602,Chicago,Chicago,Stockton Dr & Wrightwood Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,11,8,Chicago,325,True,True,Chicago,2020-04-19 20:05:10,41.97334,Chicago,-87.66778,60602,Chicago,Chicago,Clark St & Winnemac Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,5,14,Chicago,326,True,True,Chicago,2020-04-19 23:35:18,41.967096,Chicago,-87.667429,60602,Chicago,Chicago,Clark St & Leland Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,12,7,Chicago,327,True,True,Chicago,2020-04-19 22:14:22,41.92154,Chicago,-87.653818,60602,Chicago,Chicago,Sheffield Ave & Webster Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,3,16,Chicago,328,True,True,Chicago,2020-04-19 15:02:50,41.788746,Chicago,-87.601334,60602,Chicago,Chicago,Ellis Ave & 58th St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,8,15,Chicago,329,True,True,Chicago,2020-04-19 19:33:33,41.932588,Chicago,-87.636427,60602,Chicago,Chicago,Lake Shore Dr & Diversey Pkwy,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,17,2,Chicago,330,True,True,Chicago,2020-04-19 19:58:22,41.946176,Chicago,-87.673308,60602,Chicago,Chicago,Lincoln Ave & Addison St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,16,11,Chicago,331,True,True,Chicago,2020-04-19 19:26:08,41.909668,Chicago,-87.648128,60602,Chicago,Chicago,Halsted St & Clybourn Ave,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,6,13,Chicago,332,True,True,Chicago,2020-04-19 20:57:29,41.93314,Chicago,-87.64776,60602,Chicago,Chicago,Burling St (Halsted) & Diversey Pkwy (Temp),IN_SERVICE,1,IN_SERVICE,False,19
+0.0,8,7,Chicago,333,True,True,Chicago,2020-04-19 16:47:29,41.907066,Chicago,-87.667252,60602,Chicago,Chicago,Ashland Ave & Blackhawk St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,9,10,Chicago,334,True,True,Chicago,2020-04-19 22:25:22,41.940775,Chicago,-87.639192,60602,Chicago,Chicago,Lake Shore Dr & Belmont Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,13,2,Chicago,335,True,True,Chicago,2020-04-19 22:34:10,41.831379,Chicago,-87.618034,60602,Chicago,Chicago,Calumet Ave & 35th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,9,6,Chicago,336,True,True,Chicago,2020-04-19 18:04:10,41.809855,Chicago,-87.606755,60602,Chicago,Chicago,Cottage Grove Ave & 47th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,10,9,Chicago,337,True,True,Chicago,2020-04-19 19:03:37,41.89675,Chicago,-87.63089,60602,Chicago,Chicago,Clark St & Chicago Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,11,4,Chicago,338,True,True,Chicago,2020-04-19 14:38:47,41.857611,Chicago,-87.619407,60602,Chicago,Chicago,Calumet Ave & 18th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,2,9,Chicago,339,True,True,Chicago,2020-04-19 23:25:30,41.838198,Chicago,-87.645143,60602,Chicago,Chicago,Emerald Ave & 31st St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,6,9,Chicago,340,True,True,Chicago,2020-04-19 20:35:10,41.929546,Chicago,-87.643118,60602,Chicago,Chicago,Clark St & Wrightwood Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,9,29,Chicago,341,True,True,Chicago,2020-04-19 10:45:03,41.866095,Chicago,-87.607267,60602,Chicago,Chicago,Adler Planetarium,IN_SERVICE,1,IN_SERVICE,False,39
+0.0,11,12,Chicago,342,True,True,Chicago,2020-04-19 23:23:40,41.871262,Chicago,-87.673688,60602,Chicago,Chicago,Wolcott Ave & Polk St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,10,4,Chicago,343,True,True,Chicago,2020-04-19 16:34:14,41.928887,Chicago,-87.658971,60602,Chicago,Chicago,Racine Ave & Wrightwood Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,16,30,Chicago,344,True,True,Chicago,2020-04-19 21:12:13,41.96909,Chicago,-87.674237,60602,Chicago,Chicago,Ravenswood Ave & Lawrence Ave,IN_SERVICE,1,IN_SERVICE,False,47
+0.0,8,11,Chicago,345,True,True,Chicago,2020-04-19 17:05:53,41.793242,Chicago,-87.587782,60602,Chicago,Chicago,Lake Park Ave & 56th St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,4,11,Chicago,346,True,True,Chicago,2020-04-19 18:45:02,41.88283,Chicago,-87.661206,60602,Chicago,Chicago,Ada St & Washington Blvd,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,10,5,Chicago,347,True,True,Chicago,2020-04-19 18:17:16,41.950687,Chicago,-87.6687,60602,Chicago,Chicago,Ashland Ave & Grace St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,8,Chicago,348,True,True,Chicago,2020-04-19 18:50:24,41.8538040657915,Chicago,-87.69574239850043,60602,Chicago,Chicago,California Ave & 21st St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,2,13,Chicago,349,True,True,Chicago,2020-04-19 18:15:44,41.929143,Chicago,-87.649077,60602,Chicago,Chicago,Halsted St & Wrightwood Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,14,1,Chicago,350,True,True,Chicago,2020-04-19 18:42:07,41.895966,Chicago,-87.667747,60602,Chicago,Chicago,Ashland Ave & Chicago Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,3,12,Chicago,351,True,True,Chicago,2020-04-19 18:43:11,41.803038,Chicago,-87.606615,60602,Chicago,Chicago,Cottage Grove Ave & 51st St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,4,Chicago,352,True,True,Chicago,2020-04-19 09:37:21,41.77351755125,Chicago,-87.5771428255,60602,Chicago,Chicago,Jeffery Blvd & 67th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,10,Chicago,353,True,True,Chicago,2020-04-19 18:06:24,42.01256011541,Chicago,-87.6743671152,60602,Chicago,Chicago,Clark St & Touhy Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,9,Chicago,354,True,True,Chicago,2020-04-19 14:20:58,42.01058656284,Chicago,-87.6624120948,60602,Chicago,Chicago,Sheridan Rd & Greenleaf Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,9,Chicago,355,True,True,Chicago,2020-04-19 10:56:57,41.773643,Chicago,-87.567514,60602,Chicago,Chicago,South Shore Dr & 67th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,2,9,Chicago,356,True,True,Chicago,2020-04-19 20:24:53,41.7664929373,Chicago,-87.5864608775,60602,Chicago,Chicago,Stony Island Ave & 71st St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,15,8,Chicago,359,True,True,Chicago,2020-04-19 19:39:25,41.90348607004,Chicago,-87.6433534936,60602,Chicago,Chicago,Larrabee St & Division St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,16,3,Chicago,364,True,True,Chicago,2020-04-19 20:13:43,41.90021949323,Chicago,-87.6429854676,60602,Chicago,Chicago,Larrabee St & Oak St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,3,12,Chicago,365,True,True,Chicago,2020-04-19 18:34:48,41.89936843921,Chicago,-87.6484798752,60602,Chicago,Chicago,Halsted St & North Branch St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,2,9,Chicago,366,True,True,Chicago,2020-04-19 15:13:52,41.84163253965,Chicago,-87.6574349533,60602,Chicago,Chicago,Loomis St & Archer Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,11,Chicago,367,True,True,Chicago,2020-04-19 14:31:08,41.83069611252,Chicago,-87.6559759116,60602,Chicago,Chicago,Racine Ave & 35th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,9,Chicago,368,True,True,Chicago,2020-04-19 16:23:45,41.83920868403,Chicago,-87.6656098589,60602,Chicago,Chicago,Ashland Ave & Archer Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,3,8,Chicago,369,True,True,Chicago,2020-04-19 04:59:46,41.83010465416,Chicago,-87.6702983089,60602,Chicago,Chicago,Wood St & 35th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,10,Chicago,370,True,True,Chicago,2020-04-19 18:00:10,41.85418424947,Chicago,-87.6191537415,60602,Chicago,Chicago,Calumet Ave & 21st St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,4,Chicago,373,True,True,Chicago,2020-04-19 21:35:27,41.89546530305,Chicago,-87.7061278837,60602,Chicago,Chicago,Kedzie Ave & Chicago Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,6,17,Chicago,374,True,True,Chicago,2020-04-19 19:31:36,41.89841768945,Chicago,-87.6865960164,60602,Chicago,Chicago,Western Ave & Walton St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,3,8,Chicago,375,True,True,Chicago,2020-04-19 20:39:49,41.89046879243862,Chicago,-87.70260751247406,60602,Chicago,Chicago,Sacramento Blvd & Franklin Blvd,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,20,15,Chicago,376,True,True,Chicago,2020-04-19 18:01:28,41.88949181977,Chicago,-87.6882193648,60602,Chicago,Chicago,Artesian Ave & Hubbard St,IN_SERVICE,1,IN_SERVICE,False,35
+0.0,7,8,Chicago,377,True,True,Chicago,2020-04-19 14:01:10,41.88460328501,Chicago,-87.7063037436,60602,Chicago,Chicago,Kedzie Ave & Lake St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,5,Chicago,378,True,True,Chicago,2020-04-19 17:58:20,41.88445395657,Chicago,-87.6962981368,60602,Chicago,Chicago,California Ave & Lake St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,11,4,Chicago,381,True,True,Chicago,2020-04-19 19:06:19,41.8797877089,Chicago,-87.686112808,60602,Chicago,Chicago,Western Ave & Monroe St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,13,Chicago,382,True,True,Chicago,2020-04-19 23:37:46,41.87474885079,Chicago,-87.6864452757,60602,Chicago,Chicago,Western Ave & Congress Pkwy,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,5,26,Chicago,383,True,True,Chicago,2020-04-19 19:20:03,41.87295,Chicago,-87.66913,60602,Chicago,Chicago,Paulina St & Flournoy St,IN_SERVICE,1,IN_SERVICE,False,31
+0.0,3,8,Chicago,384,True,True,Chicago,2020-04-19 04:54:09,41.80183164049,Chicago,-87.645213904,60602,Chicago,Chicago,Halsted St & 51st St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,9,Chicago,385,True,True,Chicago,2020-04-19 10:33:34,41.794982,Chicago,-87.633124,60602,Chicago,Chicago,Princeton Ave & Garfield Blvd,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,7,Chicago,386,True,True,Chicago,2020-04-19 04:54:10,41.79292964599,Chicago,-87.6449900565,60602,Chicago,Chicago,Halsted St & 56th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,1,10,Chicago,388,True,True,Chicago,2020-04-19 20:26:53,41.77938114228,Chicago,-87.6446208145,60602,Chicago,Chicago,Halsted St & 63rd St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,9,2,Chicago,390,True,True,Chicago,2020-04-19 04:59:48,41.78007963264,Chicago,-87.6297463052,60602,Chicago,Chicago,Wentworth Ave & 63rd St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,9,Chicago,391,True,True,Chicago,2020-04-19 04:59:45,41.76906172032,Chicago,-87.6446135779,60602,Chicago,Chicago,Halsted St & 69th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,9,Chicago,392,True,True,Chicago,2020-04-19 13:24:51,41.76929308995,Chicago,-87.6281959291,60602,Chicago,Chicago,Perry Ave & 69th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,9,Chicago,393,True,True,Chicago,2020-04-19 04:59:45,41.76550800581,Chicago,-87.616917925,60602,Chicago,Chicago,Calumet Ave & 71st St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,12,Chicago,394,True,True,Chicago,2020-04-19 17:52:58,41.870816,Chicago,-87.631246,60602,Chicago,Chicago,Clark St & 9th St (AMLI),IN_SERVICE,1,IN_SERVICE,False,15
+0.0,8,3,Chicago,395,True,True,Chicago,2020-04-19 14:50:08,41.75712006802,Chicago,-87.5758393587,60602,Chicago,Chicago,Jeffery Blvd & 76th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,7,Chicago,396,True,True,Chicago,2020-04-19 15:35:17,41.758768,Chicago,-87.56644,60602,Chicago,Chicago,Yates Blvd & 75th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,13,Chicago,398,True,True,Chicago,2020-04-19 04:59:47,41.75787144829,Chicago,-87.54938625,60602,Chicago,Chicago,Rainbow Beach,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,5,Chicago,399,True,True,Chicago,2020-04-19 09:07:13,41.76218896038,Chicago,-87.55927465,60602,Chicago,Chicago,South Shore Dr & 74th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,6,Chicago,400,True,True,Chicago,2020-04-19 04:48:59,41.76571903697,Chicago,-87.604959713,60602,Chicago,Chicago,Cottage Grove Ave & 71st St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,8,3,Chicago,401,True,True,Chicago,2020-04-19 16:24:59,41.842733,Chicago,-87.635491,60602,Chicago,Chicago,Shields Ave & 28th Pl,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,7,8,Chicago,402,True,True,Chicago,2020-04-19 19:48:29,41.838464,Chicago,-87.635406,60602,Chicago,Chicago,Shields Ave & 31st St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,5,10,Chicago,403,True,True,Chicago,2020-04-19 13:21:21,41.83452988563,Chicago,-87.6318229814,60602,Chicago,Chicago,Wentworth Ave & 33rd St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,4,11,Chicago,405,True,True,Chicago,2020-04-19 15:50:03,41.830777,Chicago,-87.632504,60602,Chicago,Chicago,Wentworth Ave & 35th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,13,Chicago,406,True,True,Chicago,2020-04-19 14:50:36,41.83127423549,Chicago,-87.6087991946,60602,Chicago,Chicago,Lake Park Ave & 35th St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,6,5,Chicago,407,True,True,Chicago,2020-04-19 17:19:34,41.82301523798,Chicago,-87.6265680185,60602,Chicago,Chicago,State St & Pershing Rd,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,9,Chicago,408,True,True,Chicago,2020-04-19 04:59:48,41.819102,Chicago,-87.643278,60602,Chicago,Chicago,Union Ave & Root St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,0,11,Chicago,409,True,True,Chicago,2020-04-19 04:59:48,41.81620767856,Chicago,-87.6348193497,60602,Chicago,Chicago,Shields Ave & 43rd St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,8,7,Chicago,410,True,True,Chicago,2020-04-19 17:50:03,41.81665889302,Chicago,-87.6194124619,60602,Chicago,Chicago,Prairie Ave & 43rd St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,4,Chicago,411,True,True,Chicago,2020-04-19 14:07:12,41.80813391481,Chicago,-87.6456165545,60602,Chicago,Chicago,Halsted St & 47th Pl,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,7,Chicago,412,True,True,Chicago,2020-04-19 04:54:09,41.80931770924,Chicago,-87.633449288,60602,Chicago,Chicago,Princeton Ave & 47th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,10,5,Chicago,413,True,True,Chicago,2020-04-19 18:55:41,41.81409271048,Chicago,-87.5970051479,60602,Chicago,Chicago,Woodlawn Ave & Lake Park Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,8,7,Chicago,414,True,True,Chicago,2020-04-19 19:52:14,41.870257,Chicago,-87.639474,60602,Chicago,Chicago,Canal St & Taylor St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,5,6,Chicago,415,True,True,Chicago,2020-04-19 20:45:23,41.80229465088,Chicago,-87.6180535802,60602,Chicago,Chicago,Calumet Ave & 51st St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,12,Chicago,416,True,True,Chicago,2020-04-19 20:00:40,41.805772,Chicago,-87.592464,60602,Chicago,Chicago,Dorchester Ave & 49th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,5,14,Chicago,417,True,True,Chicago,2020-04-19 17:26:24,41.802406,Chicago,-87.586924,60602,Chicago,Chicago,Cornell Ave & Hyde Park Blvd,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,4,7,Chicago,418,True,True,Chicago,2020-04-19 17:57:56,41.79933626261,Chicago,-87.6009581145,60602,Chicago,Chicago,Ellis Ave & 53rd St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,10,Chicago,419,True,True,Chicago,2020-04-19 17:14:16,41.79949429373,Chicago,-87.5864498959,60602,Chicago,Chicago,Lake Park Ave & 53rd St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,15,4,Chicago,420,True,True,Chicago,2020-04-19 18:50:36,41.79430062054,Chicago,-87.6014497734,60602,Chicago,Chicago,Ellis Ave & 55th St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,1,10,Chicago,421,True,True,Chicago,2020-04-19 04:48:59,41.79342945658,Chicago,-87.6158532619,60602,Chicago,Chicago,MLK Jr Dr & 56th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,6,Chicago,422,True,True,Chicago,2020-04-19 15:16:57,41.79156801058,Chicago,-87.6078521774,60602,Chicago,Chicago,DuSable Museum,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,16,15,Chicago,423,True,True,Chicago,2020-04-19 18:34:48,41.791478,Chicago,-87.599861,60602,Chicago,Chicago,University Ave & 57th St,IN_SERVICE,1,IN_SERVICE,False,31
+0.0,12,15,Chicago,424,True,True,Chicago,2020-04-19 12:08:10,41.79172820953,Chicago,-87.583945009,60602,Chicago,Chicago,Museum of Science and Industry,IN_SERVICE,1,IN_SERVICE,False,27
+0.0,4,11,Chicago,425,True,True,Chicago,2020-04-19 19:28:09,41.78794281287,Chicago,-87.5883151702,60602,Chicago,Chicago,Harper Ave & 59th St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,13,Chicago,426,True,True,Chicago,2020-04-19 18:28:33,41.78509714636,Chicago,-87.6010727606,60602,Chicago,Chicago,Ellis Ave & 60th St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,9,6,Chicago,427,True,True,Chicago,2020-04-19 14:57:56,41.78059901484,Chicago,-87.606112388,60602,Chicago,Chicago,Cottage Grove Ave & 63rd St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,5,Chicago,428,True,True,Chicago,2020-04-19 20:19:07,41.7804056457,Chicago,-87.5914159893,60602,Chicago,Chicago,Dorchester Ave & 63rd St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,8,Chicago,429,True,True,Chicago,2020-04-19 04:59:48,41.77372095205,Chicago,-87.60563486,60602,Chicago,Chicago,Cottage Grove Ave & 67th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,9,Chicago,430,True,True,Chicago,2020-04-19 04:59:48,41.78008063659,Chicago,-87.6159428567,60602,Chicago,Chicago,MLK Jr Dr & 63rd St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,11,0,Chicago,431,True,True,Chicago,2020-04-19 04:59:47,41.78414169317,Chicago,-87.6133078304,60602,Chicago,Chicago,Eberhart Ave & 61st St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,9,10,Chicago,432,True,True,Chicago,2020-04-19 23:01:40,42.009074,Chicago,-87.67419,60602,Chicago,Chicago,Clark St & Lunt Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,4,7,Chicago,433,True,True,Chicago,2020-04-19 11:12:13,41.87359967462,Chicago,-87.7048707493,60602,Chicago,Chicago,Kedzie Ave & Harrison St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,9,10,Chicago,434,True,True,Chicago,2020-04-19 19:44:09,41.86650148316,Chicago,-87.68469707,60602,Chicago,Chicago,Ogden Ave & Roosevelt Rd,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,5,6,Chicago,435,True,True,Chicago,2020-04-19 04:59:45,41.86649278172,Chicago,-87.7064961757,60602,Chicago,Chicago,Kedzie Ave & Roosevelt Rd,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,6,Chicago,436,True,True,Chicago,2020-04-19 04:59:46,41.866624,Chicago,-87.694521,60602,Chicago,Chicago,Fairfield Ave & Roosevelt Rd,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,1,14,Chicago,437,True,True,Chicago,2020-04-19 04:48:59,41.86193049278259,Chicago,-87.69345045089722,60602,Chicago,Chicago,Washtenaw Ave & Ogden Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,5,10,Chicago,438,True,True,Chicago,2020-04-19 04:38:55,41.85420431327,Chicago,-87.7154058381,60602,Chicago,Chicago,Central Park Ave & Ogden Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,5,6,Chicago,439,True,True,Chicago,2020-04-19 20:14:23,41.85353363213,Chicago,-87.7050730318,60602,Chicago,Chicago,Kedzie Ave & 21st St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,8,Chicago,440,True,True,Chicago,2020-04-19 04:59:45,41.8481,Chicago,-87.715068,60602,Chicago,Chicago,Central Park Ave & 24th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,8,3,Chicago,441,True,True,Chicago,2020-04-19 04:59:46,41.84819094491,Chicago,-87.7054137458,60602,Chicago,Chicago,Kedzie Ave & 24th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,6,5,Chicago,442,True,True,Chicago,2020-04-19 21:04:31,41.84910969176,Chicago,-87.6951398068,60602,Chicago,Chicago,California Ave & 23rd Pl,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,4,Chicago,443,True,True,Chicago,2020-04-19 21:04:24,41.84456684891,Chicago,-87.7159103081,60602,Chicago,Chicago,Millard Ave & 26th St,IN_SERVICE,1,IN_SERVICE,False,7
+0.0,6,5,Chicago,444,True,True,Chicago,2020-04-19 04:59:46,41.84447501366,Chicago,-87.7020130128,60602,Chicago,Chicago,Albany Ave & 26th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,9,Chicago,445,True,True,Chicago,2020-04-19 04:59:46,41.84404003127,Chicago,-87.6952959227,60602,Chicago,Chicago,California Ave & 26th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,7,Chicago,446,True,True,Chicago,2020-04-19 20:55:44,41.84151770807,Chicago,-87.6851314409,60602,Chicago,Chicago,Western Ave & 28th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,7,8,Chicago,447,True,True,Chicago,2020-04-19 21:41:14,42.00797192287,Chicago,-87.6655023944,60602,Chicago,Chicago,Glenwood Ave & Morse Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,4,Chicago,448,True,True,Chicago,2020-04-19 13:22:00,42.00454962194,Chicago,-87.6806661451,60602,Chicago,Chicago,Warren Park East,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,11,4,Chicago,449,True,True,Chicago,2020-04-19 15:23:23,42.00445062934,Chicago,-87.6724024047,60602,Chicago,Chicago,Clark St & Columbia Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,4,Chicago,450,True,True,Chicago,2020-04-19 04:59:45,42.001785,Chicago,-87.688829,60602,Chicago,Chicago,Warren Park West,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,9,14,Chicago,451,True,True,Chicago,2020-04-19 19:54:55,42.00104377979,Chicago,-87.6611982433,60602,Chicago,Chicago,Sheridan Rd & Loyola Ave,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,5,6,Chicago,452,True,True,Chicago,2020-04-19 17:51:08,41.99416136902,Chicago,-87.689438282,60602,Chicago,Chicago,Western Ave & Granville Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,14,1,Chicago,453,True,True,Chicago,2020-04-19 17:29:57,41.99925182186,Chicago,-87.6713773393,60602,Chicago,Chicago,Clark St & Schreiber Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,16,Chicago,454,True,True,Chicago,2020-04-19 20:11:30,41.9947796884,Chicago,-87.6602845349,60602,Chicago,Chicago,Broadway & Granville Ave,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,3,8,Chicago,455,True,True,Chicago,2020-04-19 04:48:59,41.99023602867,Chicago,-87.6933696402,60602,Chicago,Chicago,Maplewood Ave & Peterson Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,6,5,Chicago,456,True,True,Chicago,2020-04-19 15:57:25,41.991178,Chicago,-87.683593,60602,Chicago,Chicago,2112 W Peterson Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,1,14,Chicago,457,True,True,Chicago,2020-04-19 17:41:19,41.99051755556753,Chicago,-87.66983360052109,60602,Chicago,Chicago,Clark St & Elmdale Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,18,1,Chicago,458,True,True,Chicago,2020-04-19 22:32:07,41.98974251144,Chicago,-87.6601406209,60602,Chicago,Chicago,Broadway & Thorndale Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,10,9,Chicago,459,True,True,Chicago,2020-04-19 21:15:07,41.98403669612,Chicago,-87.6523104689,60602,Chicago,Chicago,Lakefront Trail & Bryn Mawr Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,8,7,Chicago,460,True,True,Chicago,2020-04-19 17:58:39,41.983593,Chicago,-87.669154,60602,Chicago,Chicago,Clark St & Bryn Mawr Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,10,5,Chicago,461,True,True,Chicago,2020-04-19 19:43:29,41.9840446107,Chicago,-87.6602738295,60602,Chicago,Chicago,Broadway & Ridge Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,0,15,Chicago,462,True,True,Chicago,2020-04-19 04:59:46,41.979762,Chicago,-87.67753,60602,Chicago,Chicago,Winchester (Ravenswood) Ave & Balmoral Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,13,Chicago,463,True,True,Chicago,2020-04-19 20:53:17,41.9779966544,Chicago,-87.6680471047,60602,Chicago,Chicago,Clark St & Berwyn Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,7,8,Chicago,464,True,True,Chicago,2020-04-19 16:15:42,41.97561480459,Chicago,-87.6794590387,60602,Chicago,Chicago,Damen Ave & Foster Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,9,14,Chicago,465,True,True,Chicago,2020-04-19 21:14:54,41.9716,Chicago,-87.650154,60602,Chicago,Chicago,Marine Dr & Ainslie St,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,3,8,Chicago,466,True,True,Chicago,2020-04-19 04:54:09,42.01213227742,Chicago,-87.6829126443,60602,Chicago,Chicago,Ridge Blvd & Touhy Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,11,Chicago,467,True,True,Chicago,2020-04-19 15:50:43,42.0085943972,Chicago,-87.6904922389,60602,Chicago,Chicago,Western Ave & Lunt Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,4,7,Chicago,468,True,True,Chicago,2020-04-19 12:05:45,41.98366470886,Chicago,-87.6964225611,60602,Chicago,Chicago,Budlong Woods Library,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,14,1,Chicago,469,True,True,Chicago,2020-04-19 15:19:48,41.98039423475,Chicago,-87.7161149615,60602,Chicago,Chicago,St. Louis Ave & Balmoral Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,10,1,Chicago,470,True,True,Chicago,2020-04-19 19:30:24,41.975672,Chicago,-87.709261,60602,Chicago,Chicago,Kedzie Ave & Foster Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,8,7,Chicago,471,True,True,Chicago,2020-04-19 16:46:04,41.97563272521,Chicago,-87.7014194389,60602,Chicago,Chicago,Francisco Ave & Foster Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,9,Chicago,472,True,True,Chicago,2020-04-19 14:48:41,41.97491129677,Chicago,-87.6925025594,60602,Chicago,Chicago,Lincoln Ave & Winona St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,13,2,Chicago,474,True,True,Chicago,2020-04-19 17:12:01,41.96835449363,Chicago,-87.7118306675,60602,Chicago,Chicago,Christiana Ave & Lawrence Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,11,4,Chicago,475,True,True,Chicago,2020-04-19 18:05:57,41.968987,Chicago,-87.696027,60602,Chicago,Chicago,Washtenaw Ave & Lawrence Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,5,10,Chicago,476,True,True,Chicago,2020-04-19 15:06:57,41.96668636205,Chicago,-87.7080519806,60602,Chicago,Chicago,Kedzie Ave & Leland Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,2,9,Chicago,477,True,True,Chicago,2020-04-19 19:46:59,41.965875,Chicago,-87.700825,60602,Chicago,Chicago,Manor Ave & Leland Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,12,Chicago,478,True,True,Chicago,2020-04-19 14:54:43,41.96590013976,Chicago,-87.6936384935,60602,Chicago,Chicago,Rockwell St & Eastwood Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,3,12,Chicago,479,True,True,Chicago,2020-04-19 13:10:48,41.96115407569,Chicago,-87.7165690733,60602,Chicago,Chicago,Drake Ave & Montrose Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,5,Chicago,480,True,True,Chicago,2020-04-19 23:32:09,41.961041,Chicago,-87.705866,60602,Chicago,Chicago,Albany Ave & Montrose Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,10,Chicago,481,True,True,Chicago,2020-04-19 17:25:10,41.961068,Chicago,-87.695439,60602,Chicago,Chicago,California Ave & Montrose Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,4,11,Chicago,482,True,True,Chicago,2020-04-19 21:36:14,41.96152593287,Chicago,-87.6911650414,60602,Chicago,Chicago,Campbell Ave & Montrose Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,14,5,Chicago,483,True,True,Chicago,2020-04-19 13:28:26,41.953393,Chicago,-87.732002,60602,Chicago,Chicago,Avondale Ave & Irving Park Rd,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,3,12,Chicago,484,True,True,Chicago,2020-04-19 18:13:22,41.95400483876,Chicago,-87.7191281797,60602,Chicago,Chicago,Monticello Ave & Irving Park Rd,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,10,5,Chicago,485,True,True,Chicago,2020-04-19 16:28:05,41.95358617895,Chicago,-87.7093107999,60602,Chicago,Chicago,Sawyer Ave & Irving Park Rd,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,11,4,Chicago,486,True,True,Chicago,2020-04-19 15:03:50,41.95434085219,Chicago,-87.6860796243,60602,Chicago,Chicago,Oakley Ave & Irving Park Rd,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,8,11,Chicago,487,True,True,Chicago,2020-04-19 16:23:59,41.95216219326,Chicago,-87.698051113,60602,Chicago,Chicago,California Ave & Byron St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,0,11,Chicago,488,True,True,Chicago,2020-04-19 13:53:28,41.946264,Chicago,-87.731023,60602,Chicago,Chicago,Pulaski Rd & Eddy St (Temp),IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,10,Chicago,489,True,True,Chicago,2020-04-19 12:43:02,41.947326,Chicago,-87.717582,60602,Chicago,Chicago,Drake Ave & Addison St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,8,7,Chicago,490,True,True,Chicago,2020-04-19 04:59:45,41.94524356848,Chicago,-87.7066499009,60602,Chicago,Chicago,Troy St & Elston Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,1,14,Chicago,491,True,True,Chicago,2020-04-19 19:31:09,41.9466358306,Chicago,-87.694614758,60602,Chicago,Chicago,Talman Ave & Addison St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,9,Chicago,492,True,True,Chicago,2020-04-19 11:36:48,41.946655,Chicago,-87.683359,60602,Chicago,Chicago,Leavitt St & Addison St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,5,Chicago,493,True,True,Chicago,2020-04-19 19:46:11,41.943034,Chicago,-87.687288,60602,Chicago,Chicago,Western Ave & Roscoe St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,6,9,Chicago,494,True,True,Chicago,2020-04-19 21:18:58,41.98239708485,Chicago,-87.7089225202,60602,Chicago,Chicago,Kedzie Ave & Bryn Mawr Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,9,2,Chicago,495,True,True,Chicago,2020-04-19 16:49:04,41.96110801623,Chicago,-87.7289701012,60602,Chicago,Chicago,Keystone Ave & Montrose Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,1,10,Chicago,496,True,True,Chicago,2020-04-19 16:49:24,41.939408,Chicago,-87.723574,60602,Chicago,Chicago,Avers Ave & Belmont Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,10,Chicago,497,True,True,Chicago,2020-04-19 13:26:22,41.939398,Chicago,-87.711561,60602,Chicago,Chicago,Kimball Ave & Belmont Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,13,Chicago,498,True,True,Chicago,2020-04-19 18:08:50,41.93842879148,Chicago,-87.698007756,60602,Chicago,Chicago,California Ave & Fletcher St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,12,3,Chicago,499,True,True,Chicago,2020-04-19 18:22:40,41.93058537138,Chicago,-87.7237773635,60602,Chicago,Chicago,Kosciuszko Park,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,8,Chicago,500,True,True,Chicago,2020-04-19 19:24:15,41.93533728263,Chicago,-87.7168892935,60602,Chicago,Chicago,Central Park Ave & Elbridge Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,9,Chicago,501,True,True,Chicago,2020-04-19 19:40:37,41.93190196886,Chicago,-87.7011951301,60602,Chicago,Chicago,Richmond St & Diversey Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,8,Chicago,502,True,True,Chicago,2020-04-19 23:35:29,41.92669,Chicago,-87.697668,60602,Chicago,Chicago,California Ave & Altgeld St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,8,Chicago,503,True,True,Chicago,2020-04-19 22:23:51,41.924398819,Chicago,-87.7154410355,60602,Chicago,Chicago,Drake Ave & Fullerton Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,13,2,Chicago,504,True,True,Chicago,2020-04-19 20:49:33,41.92463247165,Chicago,-87.6893070063,60602,Chicago,Chicago,Campbell Ave & Fullerton Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,2,13,Chicago,505,True,True,Chicago,2020-04-19 18:10:37,41.92409085038,Chicago,-87.6764600747,60602,Chicago,Chicago,Winchester Ave & Elston Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,4,11,Chicago,506,True,True,Chicago,2020-04-19 23:01:04,41.917108034789315,Chicago,-87.71022096276283,60602,Chicago,Chicago,Spaulding Ave & Armitage Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,13,Chicago,507,True,True,Chicago,2020-04-19 18:56:26,41.91751339399,Chicago,-87.7018089555,60602,Chicago,Chicago,Humboldt Blvd & Armitage Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,10,5,Chicago,508,True,True,Chicago,2020-04-19 17:40:48,41.90965687563,Chicago,-87.7166319516,60602,Chicago,Chicago,Central Park Ave & North Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,11,4,Chicago,509,True,True,Chicago,2020-04-19 18:24:32,41.90976930169,Chicago,-87.7052804871,60602,Chicago,Chicago,Troy St & North Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,5,6,Chicago,510,True,True,Chicago,2020-04-19 18:40:58,41.90270659438,Chicago,-87.709219571,60602,Chicago,Chicago,Spaulding Ave & Division St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,12,Chicago,511,True,True,Chicago,2020-04-19 17:37:50,41.91402671273,Chicago,-87.705126462,60602,Chicago,Chicago,Albany Ave & Bloomingdale Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,3,8,Chicago,514,True,True,Chicago,2020-04-19 17:07:49,42.019276,Chicago,-87.68452,60602,Chicago,Chicago,Ridge Blvd & Howard St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,19,0,Chicago,515,True,True,Chicago,2020-04-19 11:07:27,42.019159,Chicago,-87.673573,60602,Chicago,Chicago,Paulina St & Howard St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,10,1,Chicago,517,True,True,Chicago,2020-04-19 17:43:02,42.015963,Chicago,-87.675005,60602,Chicago,Chicago,Clark St & Jarvis Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,8,3,Chicago,518,True,True,Chicago,2020-04-19 14:43:57,41.885502,Chicago,-87.716866,60602,Chicago,Chicago,Conservatory Dr & Lake St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,6,Chicago,519,True,True,Chicago,2020-04-19 14:31:24,42.016977,Chicago,-87.677725,60602,Chicago,Chicago,Wolcott Ave & Fargo Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,17,Chicago,520,True,True,Chicago,2020-04-19 15:50:30,42.015962,Chicago,-87.66857,60602,Chicago,Chicago,Greenview Ave & Jarvis Ave,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,3,8,Chicago,522,True,True,Chicago,2020-04-19 15:05:06,42.019537,Chicago,-87.669563,60602,Chicago,Chicago,Bosworth Ave & Howard St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,12,Chicago,523,True,True,Chicago,2020-04-19 16:18:00,42.0208872805206,Chicago,-87.66505792737007,60602,Chicago,Chicago,Eastlake Ter & Rogers Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,4,3,Chicago,524,True,True,Chicago,2020-04-19 14:48:53,41.894887,Chicago,-87.774704,60602,Chicago,Chicago,Austin Blvd & Chicago Ave,IN_SERVICE,1,IN_SERVICE,False,7
+0.0,3,12,Chicago,525,True,True,Chicago,2020-04-19 21:02:45,42.012701,Chicago,-87.666058,60602,Chicago,Chicago,Glenwood Ave & Touhy Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,4,Chicago,526,True,True,Chicago,2020-04-19 13:44:07,42.012342,Chicago,-87.688243,60602,Chicago,Chicago,Oakley Ave & Touhy Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,11,Chicago,527,True,True,Chicago,2020-04-19 15:30:17,42.018901,Chicago,-87.690048,60602,Chicago,Chicago,Western Ave & Howard St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,10,1,Chicago,528,True,True,Chicago,2020-04-19 18:21:08,41.885409,Chicago,-87.726491,60602,Chicago,Chicago,Pulaski Rd & Lake St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,7,4,Chicago,529,True,True,Chicago,2020-04-19 14:12:42,41.886841,Chicago,-87.745261,60602,Chicago,Chicago,Cicero Ave & Lake St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,7,Chicago,530,True,True,Chicago,2020-04-19 04:43:56,41.887832,Chicago,-87.755527,60602,Chicago,Chicago,Laramie Ave & Kinzie St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,8,Chicago,531,True,True,Chicago,2020-04-19 09:31:22,41.887664,Chicago,-87.765469,60602,Chicago,Chicago,Central Ave & Lake St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,6,Chicago,532,True,True,Chicago,2020-04-19 18:23:25,41.887919,Chicago,-87.774446,60602,Chicago,Chicago,Austin Blvd & Lake St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,10,1,Chicago,533,True,True,Chicago,2020-04-19 17:01:53,41.875679,Chicago,-87.71547,60602,Chicago,Chicago,Central Park Blvd & 5th Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,6,Chicago,534,True,True,Chicago,2020-04-19 04:59:46,41.88085,Chicago,-87.727907,60602,Chicago,Chicago,Karlov Ave & Madison St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,8,3,Chicago,535,True,True,Chicago,2020-04-19 15:21:46,41.874325,Chicago,-87.725704,60602,Chicago,Chicago,Pulaski Rd & Congress Pkwy,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,1,10,Chicago,536,True,True,Chicago,2020-04-19 11:29:43,41.885928,Chicago,-87.73541,60602,Chicago,Chicago,Kostner Ave & Lake St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,8,Chicago,537,True,True,Chicago,2020-04-19 09:13:32,41.880708,Chicago,-87.741018,60602,Chicago,Chicago,Kenton Ave & Madison St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,8,Chicago,538,True,True,Chicago,2020-04-19 04:43:56,41.872131,Chicago,-87.746619,60602,Chicago,Chicago,Cicero Ave & Flournoy St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,9,2,Chicago,539,True,True,Chicago,2020-04-19 04:38:55,41.877613,Chicago,-87.745405,60602,Chicago,Chicago,Cicero Ave & Quincy St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,7,4,Chicago,540,True,True,Chicago,2020-04-19 10:48:30,41.880207,Chicago,-87.755337,60602,Chicago,Chicago,Laramie Ave & Madison St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,1,9,Chicago,541,True,True,Chicago,2020-04-19 10:28:52,41.872993,Chicago,-87.764499,60602,Chicago,Chicago,Central Ave & Harrison St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,8,Chicago,542,True,True,Chicago,2020-04-19 04:59:45,41.880121,Chicago,-87.763238,60602,Chicago,Chicago,Central Ave & Madison St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,1,10,Chicago,543,True,True,Chicago,2020-04-19 04:43:56,41.875806,Chicago,-87.755285,60602,Chicago,Chicago,Laramie Ave & Gladys Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,6,Chicago,544,True,True,Chicago,2020-04-19 10:00:16,41.880281,Chicago,-87.774453,60602,Chicago,Chicago,Austin Blvd & Madison St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,7,Chicago,545,True,True,Chicago,2020-04-19 04:59:46,41.877917,Chicago,-87.735737,60602,Chicago,Chicago,Kostner Ave & Adams St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,8,3,Chicago,546,True,True,Chicago,2020-04-19 15:49:22,41.823192,Chicago,-87.676597,60602,Chicago,Chicago,Damen Ave & Pershing Rd,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,6,5,Chicago,547,True,True,Chicago,2020-04-19 12:25:05,41.823465,Chicago,-87.665577,60602,Chicago,Chicago,Ashland Ave & Pershing Rd,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,6,1,Chicago,548,True,True,Chicago,2020-04-19 04:48:59,41.823613,Chicago,-87.650931,60602,Chicago,Chicago,Morgan St & Pershing Rd,IN_SERVICE,1,IN_SERVICE,False,7
+0.0,3,8,Chicago,549,True,True,Chicago,2020-04-19 04:54:10,41.813996,Chicago,-87.666589,60602,Chicago,Chicago,Marshfield Ave & 44th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,6,Chicago,550,True,True,Chicago,2020-04-19 20:09:49,41.894958,Chicago,-87.764902,60602,Chicago,Chicago,Central Ave & Chicago Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,9,2,Chicago,551,True,True,Chicago,2020-04-19 14:55:24,41.808227,Chicago,-87.67718,60602,Chicago,Chicago,Hoyne Ave & 47th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,8,Chicago,552,True,True,Chicago,2020-04-19 04:54:09,41.80887,Chicago,-87.66454,60602,Chicago,Chicago,Ashland Ave & McDowell Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,6,Chicago,553,True,True,Chicago,2020-04-19 04:54:09,41.80839,Chicago,-87.656526,60602,Chicago,Chicago,Elizabeth St & 47th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,3,Chicago,554,True,True,Chicago,2020-04-19 04:54:09,41.800908,Chicago,-87.674684,60602,Chicago,Chicago,Damen Ave & 51st St,IN_SERVICE,1,IN_SERVICE,False,7
+0.0,9,2,Chicago,555,True,True,Chicago,2020-04-19 04:54:09,41.803023,Chicago,-87.664699,60602,Chicago,Chicago,Ashland Ave & 50th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,1,6,Chicago,556,True,True,Chicago,2020-04-19 04:54:09,41.799659,Chicago,-87.657195,60602,Chicago,Chicago,Throop St & 52nd St,IN_SERVICE,1,IN_SERVICE,False,7
+0.0,5,6,Chicago,557,True,True,Chicago,2020-04-19 04:59:46,41.794087,Chicago,-87.675478,60602,Chicago,Chicago,Seeley Ave & Garfield Blvd,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,7,Chicago,558,True,True,Chicago,2020-04-19 11:30:26,41.792822,Chicago,-87.664429,60602,Chicago,Chicago,Ashland Ave & Garfield Blvd,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,7,Chicago,559,True,True,Chicago,2020-04-19 04:59:46,41.794228,Chicago,-87.655073,60602,Chicago,Chicago,Racine Ave & Garfield Blvd,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,9,Chicago,560,True,True,Chicago,2020-04-19 04:59:46,41.786833,Chicago,-87.666215,60602,Chicago,Chicago,Marshfield Ave & 59th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,9,Chicago,561,True,True,Chicago,2020-04-19 04:59:45,41.78602,Chicago,-87.674167,60602,Chicago,Chicago,Damen Ave & 59th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,8,Chicago,562,True,True,Chicago,2020-04-19 04:59:46,41.783189,Chicago,-87.654372,60602,Chicago,Chicago,Racine Ave & 61st St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,7,Chicago,563,True,True,Chicago,2020-04-19 14:15:23,41.779374,Chicago,-87.664843,60602,Chicago,Chicago,Ashland Ave & 63rd St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,9,Chicago,564,True,True,Chicago,2020-04-19 04:54:10,41.775393,Chicago,-87.654308,60602,Chicago,Chicago,Racine Ave & 65th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,5,Chicago,565,True,True,Chicago,2020-04-19 04:59:45,41.774074,Chicago,-87.663815,60602,Chicago,Chicago,Ashland Ave & 66th St,IN_SERVICE,1,IN_SERVICE,False,7
+0.0,0,11,Chicago,566,True,True,Chicago,2020-04-19 04:59:45,41.768726,Chicago,-87.664069,60602,Chicago,Chicago,Ashland Ave & 69th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,7,Chicago,567,True,True,Chicago,2020-04-19 04:59:45,41.768938,Chicago,-87.652934,60602,Chicago,Chicago,May St & 69th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,4,Chicago,568,True,True,Chicago,2020-04-19 04:59:46,41.75797,Chicago,-87.63121,60602,Chicago,Chicago,Vincennes Ave & 75th St,IN_SERVICE,1,IN_SERVICE,False,7
+0.0,2,9,Chicago,569,True,True,Chicago,2020-04-19 04:54:09,41.75916,Chicago,-87.595751,60602,Chicago,Chicago,Woodlawn Ave & 75th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,1,6,Chicago,570,True,True,Chicago,2020-04-19 16:46:23,41.75849,Chicago,-87.60641,60602,Chicago,Chicago,Evans Ave & 75th St,IN_SERVICE,1,IN_SERVICE,False,7
+0.0,3,8,Chicago,571,True,True,Chicago,2020-04-19 04:59:45,41.758361,Chicago,-87.614138,60602,Chicago,Chicago,Vernon Ave & 75th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,7,4,Chicago,572,True,True,Chicago,2020-04-19 04:54:09,41.756971,Chicago,-87.624621,60602,Chicago,Chicago,State St & 76th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,8,Chicago,573,True,True,Chicago,2020-04-19 13:06:57,41.750794,Chicago,-87.624424,60602,Chicago,Chicago,State St & 79th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,7,Chicago,574,True,True,Chicago,2020-04-19 20:54:37,41.75094,Chicago,-87.61379,60602,Chicago,Chicago,Vernon Ave & 79th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,7,4,Chicago,575,True,True,Chicago,2020-04-19 04:54:09,41.753174,Chicago,-87.605026,60602,Chicago,Chicago,Cottage Grove Ave & 78th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,1,10,Chicago,576,True,True,Chicago,2020-04-19 04:59:45,41.751294,Chicago,-87.597552,60602,Chicago,Chicago,Greenwood Ave & 79th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,9,Chicago,577,True,True,Chicago,2020-04-19 16:03:34,41.751173,Chicago,-87.585337,60602,Chicago,Chicago,Stony Island Ave & South Chicago Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,9,Chicago,578,True,True,Chicago,2020-04-19 19:16:54,41.751785,Chicago,-87.578496,60602,Chicago,Chicago,Bennett Ave & 79th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,7,4,Chicago,579,True,True,Chicago,2020-04-19 16:14:37,41.75182,Chicago,-87.565211,60602,Chicago,Chicago,Phillips Ave & 79th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,7,Chicago,580,True,True,Chicago,2020-04-19 04:59:47,41.751731,Chicago,-87.552812,60602,Chicago,Chicago,Exchange Ave & 79th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,8,Chicago,581,True,True,Chicago,2020-04-19 12:29:49,41.744615,Chicago,-87.551208,60602,Chicago,Chicago,Commercial Ave & 83rd St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,0,11,Chicago,582,True,True,Chicago,2020-04-19 04:59:47,41.744531,Chicago,-87.56506,60602,Chicago,Chicago,Phillips Ave & 83rd St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,6,Chicago,583,True,True,Chicago,2020-04-19 04:59:45,41.746559,Chicago,-87.586005,60602,Chicago,Chicago,Stony Island Ave & 82nd St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,8,3,Chicago,584,True,True,Chicago,2020-04-19 17:11:41,41.744123,Chicago,-87.599034,60602,Chicago,Chicago,Ellis Ave & 83rd St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,7,Chicago,585,True,True,Chicago,2020-04-19 16:33:07,41.743441,Chicago,-87.604836,60602,Chicago,Chicago,Cottage Grove Ave & 83rd St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,9,Chicago,586,True,True,Chicago,2020-04-19 16:45:11,41.743116,Chicago,-87.6148,60602,Chicago,Chicago,MLK Jr Dr & 83rd St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,9,2,Chicago,587,True,True,Chicago,2020-04-19 15:48:23,41.743316,Chicago,-87.622849,60602,Chicago,Chicago,Wabash Ave & 83rd St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,9,Chicago,588,True,True,Chicago,2020-04-19 04:59:45,41.743921,Chicago,-87.575225,60602,Chicago,Chicago,South Chicago Ave & 83rd St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,9,2,Chicago,589,True,True,Chicago,2020-04-19 12:44:14,41.954468,Chicago,-87.749594,60602,Chicago,Chicago,Milwaukee Ave & Cuyler Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,0,11,Chicago,590,True,True,Chicago,2020-04-19 11:37:11,41.953733,Chicago,-87.740569,60602,Chicago,Chicago,Kilbourn Ave & Irving Park Rd,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,7,8,Chicago,591,True,True,Chicago,2020-04-19 14:39:46,41.948818,Chicago,-87.74002,60602,Chicago,Chicago,Kilbourn Ave & Milwaukee Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,5,6,Chicago,592,True,True,Chicago,2020-04-19 19:27:32,41.960631,Chicago,-87.745359,60602,Chicago,Chicago,Knox Ave & Montrose Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,6,5,Chicago,593,True,True,Chicago,2020-04-19 04:54:09,41.787539,Chicago,-87.644874,60602,Chicago,Chicago,Halsted St & 59th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,7,Chicago,594,True,True,Chicago,2020-04-19 14:50:38,41.805661,Chicago,-87.683392,60602,Chicago,Chicago,Western Blvd & 48th Pl,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,6,Chicago,595,True,True,Chicago,2020-04-19 15:53:29,41.736646,Chicago,-87.622634,60602,Chicago,Chicago,Wabash Ave & 87th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,4,11,Chicago,596,True,True,Chicago,2020-04-19 17:47:38,42.048214,Chicago,-87.683485,60602,Chicago,Chicago,Benson Ave & Church St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,12,3,Chicago,597,True,True,Chicago,2020-04-19 17:53:21,42.032562,Chicago,-87.679101,60602,Chicago,Chicago,Chicago Ave & Washington St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,9,Chicago,598,True,True,Chicago,2020-04-19 20:24:02,42.025784,Chicago,-87.684107,60602,Chicago,Chicago,Elmwood Ave & Austin St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,3,12,Chicago,599,True,True,Chicago,2020-04-19 04:59:49,42.039742,Chicago,-87.699413,60602,Chicago,Chicago,Valli Produce - Evanston Plaza,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,5,10,Chicago,600,True,True,Chicago,2020-04-19 04:59:49,42.048308,Chicago,-87.698224,60602,Chicago,Chicago,Dodge Ave & Church St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,9,Chicago,601,True,True,Chicago,2020-04-19 21:44:38,42.063598,Chicago,-87.69873,60602,Chicago,Chicago,Central St Metra,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,1,14,Chicago,602,True,True,Chicago,2020-04-19 18:46:51,42.064313,Chicago,-87.686152,60602,Chicago,Chicago,Central St & Girard Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,2,13,Chicago,603,True,True,Chicago,2020-04-19 16:18:07,42.050491,Chicago,-87.677821,60602,Chicago,Chicago,Chicago Ave & Sheridan Rd,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,9,Chicago,604,True,True,Chicago,2020-04-19 21:32:22,42.058239,Chicago,-87.677432,60602,Chicago,Chicago,Sheridan Rd & Noyes St (NU),IN_SERVICE,1,IN_SERVICE,False,15
+0.0,3,12,Chicago,605,True,True,Chicago,2020-04-19 14:29:44,42.052939,Chicago,-87.673447,60602,Chicago,Chicago,University Library (NU),IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,5,Chicago,619,True,True,Chicago,2020-04-19 21:32:23,41.92459,Chicago,-87.72785,60602,Chicago,Chicago,Keystone Ave & Fullerton Ave,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,6,9,Chicago,620,True,True,Chicago,2020-04-19 20:10:07,41.898203,Chicago,-87.637536,60602,Chicago,Chicago,Orleans St & Chestnut St (NEXT Apts),IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,1,Chicago,621,True,True,Chicago,2020-04-19 20:01:14,41.884114,Chicago,-87.654264,60602,Chicago,Chicago,Aberdeen St & Randolph St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,14,1,Chicago,622,True,True,Chicago,2020-04-19 17:12:48,41.900363,Chicago,-87.696704,60602,Chicago,Chicago,California Ave & Cortez St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,15,28,Chicago,623,True,True,Chicago,2020-04-19 18:32:51,41.872773,Chicago,-87.623981,60602,Chicago,Chicago,Michigan Ave & 8th St,IN_SERVICE,1,IN_SERVICE,False,43
+0.0,8,7,Chicago,624,True,True,Chicago,2020-04-19 16:31:47,41.876268,Chicago,-87.629155,60602,Chicago,Chicago,Dearborn St & Van Buren St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,8,Chicago,625,True,True,Chicago,2020-04-19 22:05:05,42.041691,Chicago,-87.680687,60602,Chicago,Chicago,Chicago Ave & Dempster St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,7,12,Chicago,626,True,True,Chicago,2020-04-19 19:31:06,41.867491,Chicago,-87.63219,60602,Chicago,Chicago,Delano Ct & Roosevelt Rd,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,10,8,Chicago,627,True,True,Chicago,2020-04-19 23:34:07,41.894877,Chicago,-87.632326,60602,Chicago,Chicago,LaSalle Dr & Huron St,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,7,15,Chicago,628,True,True,Chicago,2020-04-19 16:47:49,41.91461,Chicago,-87.667968,60602,Chicago,Chicago,Walsh Park,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,1,14,Chicago,630,True,True,Chicago,2020-04-19 14:46:19,41.96108,Chicago,-87.73569,60602,Chicago,Chicago,Kildare Ave & Montrose Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,9,10,Chicago,631,True,True,Chicago,2020-04-19 04:59:48,41.877618,Chicago,-87.673895,60602,Chicago,Chicago,Malcolm X College,IN_SERVICE,1,IN_SERVICE,False,19
+0.0,3,8,Chicago,635,True,True,Chicago,2020-04-19 21:23:57,41.895748,Chicago,-87.620104,60602,Chicago,Chicago,Fairbanks St & Superior St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,3,8,Chicago,636,True,True,Chicago,2020-04-19 15:54:29,41.890028,Chicago,-87.636618,60602,Chicago,Chicago,Orleans St & Hubbard St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,6,17,Chicago,638,True,True,Chicago,2020-04-19 20:41:56,41.87811603010527,Chicago,-87.63983845710754,60602,Chicago,Chicago,Clinton St & Jackson Blvd,IN_SERVICE,1,IN_SERVICE,False,23
+0.0,5,10,Chicago,639,True,True,Chicago,2020-04-19 04:59:48,41.965845,Chicago,-87.645361,60602,Chicago,Chicago,Lakefront Trail & Wilson Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,2,5,Chicago,642,True,True,Chicago,2020-04-19 04:43:56,41.894745,Chicago,-87.756895,60602,Chicago,Chicago,Latrobe Ave & Chicago Ave,IN_SERVICE,1,IN_SERVICE,False,7
+0.0,3,8,Chicago,645,True,True,Chicago,2020-04-19 18:03:37,41.826712,Chicago,-87.683144,60602,Chicago,Chicago,Archer (Damen) Ave & 37th St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,2,5,Chicago,647,True,True,Chicago,2020-04-19 20:48:22,41.786691,Chicago,-87.655859,60602,Chicago,Chicago,Elizabeth St & 59th St,IN_SERVICE,1,IN_SERVICE,False,7
+0.0,3,8,Chicago,652,True,True,Chicago,2020-04-19 04:59:48,41.766,Chicago,-87.611726,60602,Chicago,Chicago,Rhodes Ave & 71st St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,5,6,Chicago,653,True,True,Chicago,2020-04-19 11:14:01,41.780595,Chicago,-87.584846,60602,Chicago,Chicago,Cornell Dr & Hayes Dr,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,9,6,Chicago,657,True,True,Chicago,2020-04-19 18:46:58,41.899181,Chicago,-87.6722,60602,Chicago,Chicago,Wood St & Augusta Blvd,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,10,5,Chicago,659,True,True,Chicago,2020-04-19 19:34:39,41.895501,Chicago,-87.682017,60602,Chicago,Chicago,Leavitt St & Chicago Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,4,11,Chicago,660,True,True,Chicago,2020-04-19 17:29:04,42.004583,Chicago,-87.661406,60602,Chicago,Chicago,Sheridan Rd & Columbia Ave,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,3,12,Chicago,661,True,True,Chicago,2020-04-19 16:15:50,42.057044,Chicago,-87.686554,60602,Chicago,Chicago,Evanston Civic Center,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,8,7,Chicago,662,True,True,Chicago,2020-04-19 19:11:54,42.023463,Chicago,-87.699595,60602,Chicago,Chicago,Dodge Ave & Mulford St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,6,9,Chicago,663,True,True,Chicago,2020-04-19 11:01:41,42.064854,Chicago,-87.715297,60602,Chicago,Chicago,Lincolnwood Dr & Central St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,1,6,Chicago,665,True,True,Chicago,2020-04-19 04:59:45,41.747363,Chicago,-87.580046,60602,Chicago,Chicago,South Chicago Ave & Elliot Ave,IN_SERVICE,1,IN_SERVICE,False,7
+0.0,6,9,Chicago,666,True,True,Chicago,2020-04-19 14:03:31,41.907221,Chicago,-87.655618,60602,Chicago,Chicago,Cherry Ave & Blackhawk St,IN_SERVICE,1,IN_SERVICE,False,15
+0.0,8,3,Chicago,672,True,True,Chicago,2020-04-19 17:22:06,41.89102331025185,Chicago,-87.63547986745834,60602,Chicago,Chicago,Franklin St & Illinois St,IN_SERVICE,1,IN_SERVICE,False,11
+0.0,17,14,Chicago,673,True,True,Chicago,2020-04-19 20:15:16,41.92393131136619,Chicago,-87.63582453131676,60602,Chicago,Chicago,Lincoln Park Conservatory,IN_SERVICE,1,IN_SERVICE,False,31
